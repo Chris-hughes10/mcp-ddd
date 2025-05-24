@@ -1,0 +1,844 @@
+{
+  "state:TX": [
+    {
+      "state": "TX",
+      "retrieved_at": "2025-05-24T08:12:31.721398",
+      "alerts": [
+        {
+          "event": "Heat Advisory",
+          "area": "Jim Wells; Inland Kleberg; Inland Nueces; Inland San Patricio",
+          "severity": "Moderate",
+          "description": "* WHAT...Heat index values up to 111 expected.\n\n* WHERE...Inland Kleberg, Inland Nueces, Inland San Patricio, and\nJim Wells Counties.\n\n* WHEN...From 1 PM this afternoon to 7 PM CDT this evening.\n\n* IMPACTS...Hot temperatures and high humidity may cause heat\nillnesses.",
+          "instructions": "Drink plenty of fluids, stay in an air-conditioned room, stay out of\nthe sun, and check up on relatives and neighbors."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Angelina, TX; Houston, TX; Polk, TX; Trinity, TX; Tyler, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in Texas...\n\nNeches River Near Diboll affecting Angelina, Houston, Trinity,\nTyler and Polk Counties.\n\nFor the Neches River...including Neches, Alto, Diboll, Rockland...\nMinor flooding is forecast.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Neches River near Diboll.\n\n* WHEN...Until Sunday evening.\n\n* IMPACTS...At 12.0 feet, Minor lowland flooding occurs.  Expect\nflooded boat ramps and trails.\n\n* ADDITIONAL DETAILS...\n- At 8:15 PM CDT Friday the stage was 12.5 feet.\n- Bankfull stage is 12.0 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 8:15 PM CDT Friday was 12.7 feet.\n- Forecast...The river is expected to fall below flood stage\nSunday evening and continue falling to 10.9 feet Wednesday\nevening.\n- Flood stage is 12.0 feet.\n- Flood History...This crest compares to a previous crest of\n12.6 feet on 03/24/1970.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Do not drive cars through flooded areas.\nCaution is urged when walking near riverbanks.\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nMotorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nFor more hydrologic information, copy and paste the following website\naddress into your favorite web browser URL bar:\nhttps://water.noaa.gov/wfo/SHV\n\nThe next statement will be issued Saturday evening at 900 PM CDT."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Beauregard, LA; Calcasieu, LA; Newton, TX; Orange, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in Texas...\nLouisiana...\n\nSabine River Near Deweyville\n\nAdditional information is available at www.weather.gov.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Sabine River near Deweyville.\n\n* WHEN...Until further notice.\n\n* IMPACTS...At 24.0 feet, Minor lowland flooding will occur.\n\n* ADDITIONAL DETAILS...\n- At 6:45 PM CDT Friday the stage was 24.4 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 6:45 PM CDT Friday was 24.4 feet.\n- Forecast...The river is expected to rise to a crest of 24.4\nfeet just after midnight tonight.\n- Flood stage is 24.0 feet.\n- http://www.weather.gov/safety/flood",
+          "instructions": null
+        }
+      ]
+    },
+    {
+      "state": "TX",
+      "retrieved_at": "2025-05-24T08:04:25.724396",
+      "alerts": [
+        {
+          "event": "Heat Advisory",
+          "area": "Jim Wells; Inland Kleberg; Inland Nueces; Inland San Patricio",
+          "severity": "Moderate",
+          "description": "* WHAT...Heat index values up to 111 expected.\n\n* WHERE...Inland Kleberg, Inland Nueces, Inland San Patricio, and\nJim Wells Counties.\n\n* WHEN...From 1 PM this afternoon to 7 PM CDT this evening.\n\n* IMPACTS...Hot temperatures and high humidity may cause heat\nillnesses.",
+          "instructions": "Drink plenty of fluids, stay in an air-conditioned room, stay out of\nthe sun, and check up on relatives and neighbors."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Angelina, TX; Houston, TX; Polk, TX; Trinity, TX; Tyler, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in Texas...\n\nNeches River Near Diboll affecting Angelina, Houston, Trinity,\nTyler and Polk Counties.\n\nFor the Neches River...including Neches, Alto, Diboll, Rockland...\nMinor flooding is forecast.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Neches River near Diboll.\n\n* WHEN...Until Sunday evening.\n\n* IMPACTS...At 12.0 feet, Minor lowland flooding occurs.  Expect\nflooded boat ramps and trails.\n\n* ADDITIONAL DETAILS...\n- At 8:15 PM CDT Friday the stage was 12.5 feet.\n- Bankfull stage is 12.0 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 8:15 PM CDT Friday was 12.7 feet.\n- Forecast...The river is expected to fall below flood stage\nSunday evening and continue falling to 10.9 feet Wednesday\nevening.\n- Flood stage is 12.0 feet.\n- Flood History...This crest compares to a previous crest of\n12.6 feet on 03/24/1970.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Do not drive cars through flooded areas.\nCaution is urged when walking near riverbanks.\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nMotorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nFor more hydrologic information, copy and paste the following website\naddress into your favorite web browser URL bar:\nhttps://water.noaa.gov/wfo/SHV\n\nThe next statement will be issued Saturday evening at 900 PM CDT."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Beauregard, LA; Calcasieu, LA; Newton, TX; Orange, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in Texas...\nLouisiana...\n\nSabine River Near Deweyville\n\nAdditional information is available at www.weather.gov.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Sabine River near Deweyville.\n\n* WHEN...Until further notice.\n\n* IMPACTS...At 24.0 feet, Minor lowland flooding will occur.\n\n* ADDITIONAL DETAILS...\n- At 6:45 PM CDT Friday the stage was 24.4 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 6:45 PM CDT Friday was 24.4 feet.\n- Forecast...The river is expected to rise to a crest of 24.4\nfeet just after midnight tonight.\n- Flood stage is 24.0 feet.\n- http://www.weather.gov/safety/flood",
+          "instructions": null
+        }
+      ]
+    },
+    {
+      "state": "TX",
+      "retrieved_at": "2025-05-24T08:03:43.166621",
+      "alerts": [
+        {
+          "event": "Heat Advisory",
+          "area": "Jim Wells; Inland Kleberg; Inland Nueces; Inland San Patricio",
+          "severity": "Moderate",
+          "description": "* WHAT...Heat index values up to 111 expected.\n\n* WHERE...Inland Kleberg, Inland Nueces, Inland San Patricio, and\nJim Wells Counties.\n\n* WHEN...From 1 PM this afternoon to 7 PM CDT this evening.\n\n* IMPACTS...Hot temperatures and high humidity may cause heat\nillnesses.",
+          "instructions": "Drink plenty of fluids, stay in an air-conditioned room, stay out of\nthe sun, and check up on relatives and neighbors."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Angelina, TX; Houston, TX; Polk, TX; Trinity, TX; Tyler, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in Texas...\n\nNeches River Near Diboll affecting Angelina, Houston, Trinity,\nTyler and Polk Counties.\n\nFor the Neches River...including Neches, Alto, Diboll, Rockland...\nMinor flooding is forecast.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Neches River near Diboll.\n\n* WHEN...Until Sunday evening.\n\n* IMPACTS...At 12.0 feet, Minor lowland flooding occurs.  Expect\nflooded boat ramps and trails.\n\n* ADDITIONAL DETAILS...\n- At 8:15 PM CDT Friday the stage was 12.5 feet.\n- Bankfull stage is 12.0 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 8:15 PM CDT Friday was 12.7 feet.\n- Forecast...The river is expected to fall below flood stage\nSunday evening and continue falling to 10.9 feet Wednesday\nevening.\n- Flood stage is 12.0 feet.\n- Flood History...This crest compares to a previous crest of\n12.6 feet on 03/24/1970.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Do not drive cars through flooded areas.\nCaution is urged when walking near riverbanks.\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nMotorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nFor more hydrologic information, copy and paste the following website\naddress into your favorite web browser URL bar:\nhttps://water.noaa.gov/wfo/SHV\n\nThe next statement will be issued Saturday evening at 900 PM CDT."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Beauregard, LA; Calcasieu, LA; Newton, TX; Orange, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in Texas...\nLouisiana...\n\nSabine River Near Deweyville\n\nAdditional information is available at www.weather.gov.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Sabine River near Deweyville.\n\n* WHEN...Until further notice.\n\n* IMPACTS...At 24.0 feet, Minor lowland flooding will occur.\n\n* ADDITIONAL DETAILS...\n- At 6:45 PM CDT Friday the stage was 24.4 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 6:45 PM CDT Friday was 24.4 feet.\n- Forecast...The river is expected to rise to a crest of 24.4\nfeet just after midnight tonight.\n- Flood stage is 24.0 feet.\n- http://www.weather.gov/safety/flood",
+          "instructions": null
+        }
+      ]
+    },
+    {
+      "state": "TX",
+      "retrieved_at": "2025-05-24T07:44:20.381312",
+      "alerts": [
+        {
+          "event": "Heat Advisory",
+          "area": "Jim Wells; Inland Kleberg; Inland Nueces; Inland San Patricio",
+          "severity": "Moderate",
+          "description": "* WHAT...Heat index values up to 111 expected.\n\n* WHERE...Inland Kleberg, Inland Nueces, Inland San Patricio, and\nJim Wells Counties.\n\n* WHEN...From 1 PM this afternoon to 7 PM CDT this evening.\n\n* IMPACTS...Hot temperatures and high humidity may cause heat\nillnesses.",
+          "instructions": "Drink plenty of fluids, stay in an air-conditioned room, stay out of\nthe sun, and check up on relatives and neighbors."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Angelina, TX; Houston, TX; Polk, TX; Trinity, TX; Tyler, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in Texas...\n\nNeches River Near Diboll affecting Angelina, Houston, Trinity,\nTyler and Polk Counties.\n\nFor the Neches River...including Neches, Alto, Diboll, Rockland...\nMinor flooding is forecast.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Neches River near Diboll.\n\n* WHEN...Until Sunday evening.\n\n* IMPACTS...At 12.0 feet, Minor lowland flooding occurs.  Expect\nflooded boat ramps and trails.\n\n* ADDITIONAL DETAILS...\n- At 8:15 PM CDT Friday the stage was 12.5 feet.\n- Bankfull stage is 12.0 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 8:15 PM CDT Friday was 12.7 feet.\n- Forecast...The river is expected to fall below flood stage\nSunday evening and continue falling to 10.9 feet Wednesday\nevening.\n- Flood stage is 12.0 feet.\n- Flood History...This crest compares to a previous crest of\n12.6 feet on 03/24/1970.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Do not drive cars through flooded areas.\nCaution is urged when walking near riverbanks.\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nMotorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nFor more hydrologic information, copy and paste the following website\naddress into your favorite web browser URL bar:\nhttps://water.noaa.gov/wfo/SHV\n\nThe next statement will be issued Saturday evening at 900 PM CDT."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Beauregard, LA; Calcasieu, LA; Newton, TX; Orange, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in Texas...\nLouisiana...\n\nSabine River Near Deweyville\n\nAdditional information is available at www.weather.gov.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Sabine River near Deweyville.\n\n* WHEN...Until further notice.\n\n* IMPACTS...At 24.0 feet, Minor lowland flooding will occur.\n\n* ADDITIONAL DETAILS...\n- At 6:45 PM CDT Friday the stage was 24.4 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 6:45 PM CDT Friday was 24.4 feet.\n- Forecast...The river is expected to rise to a crest of 24.4\nfeet just after midnight tonight.\n- Flood stage is 24.0 feet.\n- http://www.weather.gov/safety/flood",
+          "instructions": null
+        }
+      ]
+    },
+    {
+      "state": "TX",
+      "retrieved_at": "2025-05-20T13:33:47.491728",
+      "alerts": [
+        {
+          "event": "Flood Warning",
+          "area": "Angelina, TX; Nacogdoches, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in Texas...\n\nAngelina River Near Lufkin affecting Nacogdoches and Angelina\nCounties.\n\nFor the Angelina River...including Lufkin...Minor flooding is\nforecast.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Angelina River near Lufkin.\n\n* WHEN...Until Saturday evening.\n\n* IMPACTS...At 162.0 feet, Minor lowland to diminish and end on the\nlower Angelina River.\n\n* ADDITIONAL DETAILS...\n- At 8:00 AM CDT Tuesday the stage was 162.6 feet.\n- Bankfull stage is 158.5 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 8:00 AM CDT Tuesday was 163.1 feet.\n- Forecast...The river is expected to fall below flood stage\nFriday morning and continue falling to 160.7 feet Sunday\nmorning.\n- Flood stage is 161.0 feet.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Do not drive cars through flooded areas.\nCaution is urged when walking near riverbanks.\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nMotorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nFor more hydrologic information, copy and paste the following website\naddress into your favorite web browser URL bar:\nhttps://water.noaa.gov/wfo/SHV\n\nThe next statement will be issued Wednesday morning at 845 AM CDT."
+        },
+        {
+          "event": "Special Weather Statement",
+          "area": "Dimmit",
+          "severity": "Moderate",
+          "description": "At 824 AM CDT, Doppler radar was tracking a strong thunderstorm near\nLight, or 15 miles south of Big Wells, moving east at 20 mph.\n\nHAZARD...Winds in excess of 40 mph and nickel size hail.\n\nSOURCE...Radar indicated.\n\nIMPACT...Gusty winds could knock down tree limbs and blow around\nunsecured objects. Minor damage to outdoor objects is\npossible.\n\nLocations impacted include...\nLight, Chaparral Wildlife Management Area, Catarina and Farm to\nMarket Road 133.",
+          "instructions": "If outdoors, consider seeking shelter inside a building.\n\nThis storm may intensify, so be certain to monitor local radio\nstations and available television stations for additional information\nand possible warnings from the National Weather Service."
+        },
+        {
+          "event": "Special Weather Statement",
+          "area": "Wilson",
+          "severity": "Moderate",
+          "description": "At 821 AM CDT, Doppler radar was tracking a strong thunderstorm near\nFloresville, moving east at 20 mph.\n\nHAZARD...Winds in excess of 40 mph and penny size hail.\n\nSOURCE...Radar indicated.\n\nIMPACT...Gusty winds could knock down tree limbs and blow around\nunsecured objects. Minor damage to outdoor objects is\npossible.\n\nLocations impacted include...\nFloresville, Stockdale, Kosciusko, Sutherland Springs and U.S.\nHighway 181.",
+          "instructions": "If outdoors, consider seeking shelter inside a building."
+        },
+        {
+          "event": "Special Weather Statement",
+          "area": "La Salle",
+          "severity": "Moderate",
+          "description": "At 814 AM CDT, Doppler radar was tracking a cluster of strong\nthunderstorms over Cotulla, moving east at 25 mph.\n\nHAZARD...Wind gusts up to 40 mph and penny size hail.\n\nSOURCE...Radar indicated.\n\nIMPACT...Gusty winds could knock down tree limbs and blow around\nunsecured objects. Minor hail damage to vegetation is\npossible.\n\nLocations impacted include...\nCotulla, Los Angeles, Gardendale, and Fowlerton.\n\nThis includes Interstate 35 between mile markers 58 and 75.",
+          "instructions": "If outdoors, consider seeking shelter inside a building."
+        },
+        {
+          "event": "Special Weather Statement",
+          "area": "Frio; Atascosa",
+          "severity": "Moderate",
+          "description": "At 759 AM CDT, Doppler radar was tracking a strong thunderstorm 9\nmiles northwest of Zella, or 15 miles east of Dilley, moving east\naround 30 mph. Another strong thunderstorm was 3 miles south of\nPearsall and was also moving east around 30 mph.\n\nHAZARD...Winds in excess of 40 mph and penny size hail.\n\nSOURCE...Radar indicated.\n\nIMPACT...Gusty winds could knock down tree limbs and blow around\nunsecured objects. Minor damage to outdoor objects is\npossible.\n\nLocations impacted include...\nCharlotte, Goldfinch, Dobrowolski, Hindes, and Davis.",
+          "instructions": "If outdoors, consider seeking shelter inside a building."
+        },
+        {
+          "event": "Special Weather Statement",
+          "area": "Brooks; Inland Kenedy; Starr; Southern Hidalgo; Inland Willacy; Inland Cameron; Northern Hidalgo",
+          "severity": "Moderate",
+          "description": "The combination of well-above normal temperatures and increased\nhumidity values will produce Heat Index values up to 110 degrees\nfor a few hours this afternoon across portions of Starr, Hidalgo,\nBrooks, Willacy, Cameron and Kenedy counties. A few locations,\nespecially along the Rio Grande in Starr and Hidalgo counties, may\nbriefly experience Heat Index values up to 112 degrees mid-\nafternoon.\n\nRemember to drink plenty of water, wear lightweight and light-\ncolored clothing, and take frequent breaks from the heat. Children\nand pets should never be left unattended in vehicles.",
+          "instructions": null
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Liberty, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in Texas...\n\nTrinity River near Moss Bluff affecting Chambers and Liberty\nCounties.\n\nTrinity River at Liberty affecting Liberty County.\n\n...The Flood Warning is cancelled for the following rivers in\nTexas...\n\nTrinity River at Riverside affecting San Jacinto, Trinity, Polk\nand Walker Counties.\n\nFor the Trinity River...including Crockett, Riverside, Romayor,\nGoodrich, Moss Bluff, Liberty...Moderate flooding is forecast.\n\n* WHAT...Moderate flooding is occurring and moderate flooding is\nforecast.\n\n* WHERE...Trinity River at Liberty.\n\n* WHEN...Until late Thursday morning.\n\n* IMPACTS...At 27.0 feet, Moderate lowland flooding begins as roads\ninto several outlying communities above Liberty are closed with\nresidents in 5 or 6 subdivisions cut off if not evacuated.\n\n* ADDITIONAL DETAILS...\n- At 1:15 AM CDT Tuesday the stage was 27.2 feet.\n- Bankfull stage is 21.0 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 1:15 AM CDT Tuesday was 27.6 feet.\n- Forecast...The river is expected to fall below flood stage\nlate tomorrow evening and continue falling to 22.8 feet\nSaturday evening.\n- Flood stage is 26.0 feet.\n- Flood History...This crest compares to a previous crest of\n27.1 feet on 12/16/1998.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Motorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nAdditional information is available at www.weather.gov/hgx.\n\nThe next statement will be issued early this morning at 315 AM CDT."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Chambers, TX; Liberty, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in Texas...\n\nTrinity River near Moss Bluff affecting Chambers and Liberty\nCounties.\n\nTrinity River at Liberty affecting Liberty County.\n\n...The Flood Warning is cancelled for the following rivers in\nTexas...\n\nTrinity River at Riverside affecting San Jacinto, Trinity, Polk\nand Walker Counties.\n\nFor the Trinity River...including Crockett, Riverside, Romayor,\nGoodrich, Moss Bluff, Liberty...Moderate flooding is forecast.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Trinity River near Moss Bluff.\n\n* WHEN...Until Saturday afternoon.\n\n* IMPACTS...At 12.2 feet, Minor lowland flooding begins in the\nvicinity of the gage.\n\n* ADDITIONAL DETAILS...\n- At 1:30 AM CDT Tuesday the stage was 14.1 feet.\n- Bankfull stage is 9.2 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 1:30 AM CDT Tuesday was 14.2 feet.\n- Forecast...The river is expected to rise to a crest of 14.1\nfeet this morning. It will then fall below flood stage early\nSaturday morning.\n- Flood stage is 12.2 feet.\n- Flood History...This crest compares to a previous crest of\n14.1 feet on 11/29/2004.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Motorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nAdditional information is available at www.weather.gov/hgx.\n\nThe next statement will be issued early this morning at 315 AM CDT."
+        },
+        {
+          "event": "Rip Current Statement",
+          "area": "Matagorda Islands; Brazoria Islands; Galveston Island; Bolivar Peninsula",
+          "severity": "Moderate",
+          "description": "* WHAT...Dangerous rip currents.\n\n* WHERE...Gulf-facing beaches, including the Matagorda\nPeninsula, Brazoria County beaches, Galveston Island and the\nBolivar Peninsula.\n\n* WHEN...Through Tuesday evening.\n\n* IMPACTS...Rip currents can sweep even the best swimmers away\nfrom shore into deeper water.",
+          "instructions": "Swim near a lifeguard and away from rocks, jetties, and piers. If\ncaught in a rip current, relax and float. Don't swim against the\ncurrent. If able, swim in a direction following the shoreline. If\nunable to escape, face the shore and call or wave for help."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Angelina, TX; Houston, TX; Polk, TX; Trinity, TX; Tyler, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning is extended for the following rivers in Texas...\n\nNeches River Near Alto affecting Anderson, Cherokee, Trinity and\nHouston Counties.\n\n...The Flood Warning continues for the following rivers in Texas...\n\nNeches River Near Neches affecting Anderson, Cherokee and Houston\nCounties.\n\nNeches River Near Diboll affecting Tyler, Angelina, Houston,\nTrinity and Polk Counties.\n\nFor the Neches River...including Lake Palestine, Neches, Alto,\nDiboll, Rockland...Minor flooding is forecast.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Neches River near Diboll.\n\n* WHEN...Until further notice.\n\n* IMPACTS...At 14.0 feet, Minor lowland flooding of boat ramps,\npaths, and trails.  Move livestock and equipment to higher ground.\n\n* ADDITIONAL DETAILS...\n- At 10:15 PM CDT Monday the stage was 13.2 feet.\n- Bankfull stage is 12.0 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 10:15 PM CDT Monday was 13.3 feet.\n- Forecast...The river is expected to rise to a crest of 13.2\nfeet just after midnight tonight.\n- Flood stage is 12.0 feet.\n- Flood History...This crest compares to a previous crest of\n13.2 feet on 04/28/1964.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Do not drive cars through flooded areas.\nCaution is urged when walking near riverbanks.\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nMotorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nFor more hydrologic information, copy and paste the following website\naddress into your favorite web browser URL bar:\nhttps://water.noaa.gov/wfo/SHV\n\nThe next statement will be issued Tuesday evening at 700 PM CDT."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Beauregard, LA; Calcasieu, LA; Newton, TX; Orange, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in\nLouisiana...Texas...\n\nAtchafalaya River At Morgan City\n\nMermentau River Near Mermentau\n\nVermilion River At Lafayette, Surrey Street Gage\n\nSabine River Near Deweyville\n\nAdditional information is available at www.weather.gov.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Sabine River near Deweyville.\n\n* WHEN...Until further notice.\n\n* IMPACTS...At 25.0 feet, Lowest roads beside the river flood around\nDeweyville and subject to being closed. In addition, low-lying\nroads in Southwest Beauregard Parish are flooded including Robert\nClark Road. Flooding occurs on the south side of Niblett Bluff\nPark with access roads to camp houses cut off around the park.\nAccess roads to the river in Northeastern Orange County become\nflooded.\n\n* ADDITIONAL DETAILS...\n- At 7:45 PM CDT Monday the stage was 24.7 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 7:45 PM CDT Monday was 24.8 feet.\n- Forecast...The river is expected to remain steady above flood\nstage at 24.6 feet.\n- Flood stage is 24.0 feet.\n- http://www.weather.gov/safety/flood",
+          "instructions": null
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Wise, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning is extended for the following rivers in Texas...\n\nWest Fork Trinity River Near Boyd affecting Wise County.\n\nDenton Creek Near Justin affecting Denton County.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...West Fork Trinity River near Boyd.\n\n* WHEN...From this morning to late tomorrow evening.\n\n* IMPACTS...At 16.0 feet, Minor overbank flooding is expected. Farm\nand ranch land adjacent to the river will flood, and a few rural\nroads may be affected.\n\n* ADDITIONAL DETAILS...\n- At 10:15 AM CDT Monday the stage was 16.8 feet.\n- Bankfull stage is 16.0 feet.\n- Flood stage is 16.0 feet.\n- Forecast...The river is expected to rise to a crest of 17.2\nfeet this afternoon. It will then fall below flood stage late\ntomorrow morning.",
+          "instructions": "Do not drive cars through flooded areas.\nCaution is urged when walking near riverbanks.\n\nAdditional information is available at www.water.noaa.gov/wfo/FWD."
+        }
+      ]
+    },
+    {
+      "state": "TX",
+      "retrieved_at": "2025-05-19T15:11:35.604959",
+      "alerts": [
+        {
+          "event": "Flood Warning",
+          "area": "Beauregard, LA; Calcasieu, LA; Newton, TX; Orange, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in\nLouisiana...Texas...\n\nAtchafalaya River At Morgan City\n\nVermilion River At Lafayette, Surrey Street Gage\n\nSabine River Near Deweyville\n\n...The Flood Warning is extended for the following rivers in\nLouisiana...\n\nMermentau River Near Mermentau\n\nAdditional information is available at www.weather.gov.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Sabine River near Deweyville.\n\n* WHEN...Until further notice.\n\n* IMPACTS...At 25.0 feet, Lowest roads beside the river flood around\nDeweyville and subject to being closed. In addition, low-lying\nroads in Southwest Beauregard Parish are flooded including Robert\nClark Road. Flooding occurs on the south side of Niblett Bluff\nPark with access roads to camp houses cut off around the park.\nAccess roads to the river in Northeastern Orange County become\nflooded.\n\n* ADDITIONAL DETAILS...\n- At 8:45 AM CDT Monday the stage was 24.7 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 8:45 AM CDT Monday was 24.8 feet.\n- Forecast...The river is expected to remain steady above flood\nstage at 24.7 feet.\n- Flood stage is 24.0 feet.\n- http://www.weather.gov/safety/flood",
+          "instructions": null
+        },
+        {
+          "event": "Severe Thunderstorm Warning",
+          "area": "Falls, TX; Hill, TX; Limestone, TX; McLennan, TX; Navarro, TX",
+          "severity": "Severe",
+          "description": "SVRFWD\n\nThe National Weather Service in Fort Worth has issued a\n\n* Severe Thunderstorm Warning for...\nEastern McLennan County in central Texas...\nNorthern Limestone County in central Texas...\nSoutheastern Hill County in central Texas...\nNorthwestern Falls County in central Texas...\nSouthwestern Navarro County in north central Texas...\n\n* Until 1045 AM CDT.\n\n* At 959 AM CDT, a severe thunderstorm was located over Robinson,\nmoving northeast at 55 mph.\n\nHAZARD...60 mph wind gusts and quarter size hail.\n\nSOURCE...Radar indicated.\n\nIMPACT...Hail damage to vehicles is expected. Expect wind damage\nto roofs, siding, and trees.\n\n* This severe thunderstorm will be near...\nWaco, Robinson, Riesel, Hallsburg, and Lake Creek Lake around 1005\nAM CDT.\nTradinghouse Creek Reservoir around 1010 AM CDT.\nMart around 1015 AM CDT.\nLake Mexia around 1035 AM CDT.\n\nOther locations impacted by this severe thunderstorm include Ben Hur,\nWatt, Axtell, Downsville, Mount Calm, Tehuacana, Shiloh, Navarro\nMills, Asa, and Prairie Hill.\n\nThis includes Interstate 35 between mile markers 322 and 340.",
+          "instructions": "For your protection get inside a sturdy structure and stay away from\nwindows."
+        },
+        {
+          "event": "Severe Thunderstorm Warning",
+          "area": "Ellis, TX; Hill, TX; Johnson, TX",
+          "severity": "Severe",
+          "description": "SVRFWD\n\nThe National Weather Service in Fort Worth has issued a\n\n* Severe Thunderstorm Warning for...\nEast central Johnson County in north central Texas...\nCentral Hill County in central Texas...\nWestern Ellis County in north central Texas...\n\n* Until 1045 AM CDT.\n\n* At 956 AM CDT, a severe thunderstorm was located over Whitney, or\n13 miles west of Hillsboro, moving northeast at 55 mph.\n\nHAZARD...60 mph wind gusts and quarter size hail.\n\nSOURCE...Radar indicated.\n\nIMPACT...Hail damage to vehicles is expected. Expect wind damage\nto roofs, siding, and trees.\n\n* This severe thunderstorm will be near...\nWhitney around 1000 AM CDT.\nItasca around 1010 AM CDT.\nMaypearl around 1025 AM CDT.\nWaxahachie around 1035 AM CDT.\n\nOther locations impacted by this severe thunderstorm include Reagor\nSprings, Lovelace, Milford, Avalon, Brandon, Mayfield, Griffith,\nForreston, Osceola, and Howard.\n\nThis includes the following highways...\nInterstate 35 between mile markers 364 and 369.\nInterstate 35W between mile markers 1 and 18.\nInterstate 35E between mile markers 371 and 402.",
+          "instructions": "For your protection get inside a sturdy structure and stay away from\nwindows."
+        },
+        {
+          "event": "Special Weather Statement",
+          "area": "McLennan",
+          "severity": "Moderate",
+          "description": "At 943 AM CDT, Doppler radar was tracking a strong thunderstorm over\nMoody, or 7 miles south of McGregor, moving northeast at 55 mph.\n\nHAZARD...Winds in excess of 40 mph and nickel size hail.\n\nSOURCE...Radar indicated.\n\nIMPACT...Gusty winds could knock down tree limbs and blow around\nunsecured objects. Minor damage to outdoor objects is\npossible.\n\nThis strong thunderstorm will be near...\nWaco, Hewitt, and Lorena around 950 AM CDT.\nWoodway and Robinson around 955 AM CDT.\nBeverly Hills around 1000 AM CDT.\nBellmead and Lacy-Lakeview around 1005 AM CDT.\n\nOther locations impacted by this storm include Rock Creek,\nDownsville, Willow Grove, Asa, Spring Valley, China Spring, and\nGholson.\n\nThis includes Interstate 35 between mile markers 314 and 338.",
+          "instructions": "If outdoors, consider seeking shelter inside a building."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Anderson, TX; Cherokee, TX; Houston, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning is extended for the following rivers in Texas...\n\nNeches River Near Alto affecting Cherokee, Trinity, Anderson and\nHouston Counties.\n\n...The Flood Warning continues for the following rivers in Texas...\n\nNeches River Near Neches affecting Cherokee, Anderson and Houston\nCounties.\n\nNeches River Near Diboll affecting Angelina, Houston, Trinity,\nPolk and Tyler Counties.\n\nFor the Neches River...including Neches, Alto, Diboll...Minor\nflooding is forecast.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Neches River near Neches.\n\n* WHEN...Until Tuesday evening.\n\n* IMPACTS...At 12.0 feet, Expect minor lowland flooding of the\nheavily wooded floodplain. Ranchers that may have livestock and\nequipment in the river bottoms should move them to higher ground.\nExpect minor flooding of the boat ramp.\n\n* ADDITIONAL DETAILS...\n- At 7:30 AM CDT Monday the stage was 12.4 feet.\n- Bankfull stage is 12.0 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 7:30 AM CDT Monday was 12.7 feet.\n- Forecast...The river is expected to fall below flood stage\nlate tonight and continue falling to 9.7 feet Saturday\nmorning.\n- Flood stage is 12.0 feet.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Do not drive cars through flooded areas.\nCaution is urged when walking near riverbanks.\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nMotorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nFor more hydrologic information, copy and paste the following website\naddress into your favorite web browser URL bar:\nhttps://water.noaa.gov/wfo/SHV\n\nThe next statement will be issued Tuesday morning at 830 AM CDT."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Anderson, TX; Cherokee, TX; Houston, TX; Trinity, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning is extended for the following rivers in Texas...\n\nNeches River Near Alto affecting Cherokee, Trinity, Anderson and\nHouston Counties.\n\n...The Flood Warning continues for the following rivers in Texas...\n\nNeches River Near Neches affecting Cherokee, Anderson and Houston\nCounties.\n\nNeches River Near Diboll affecting Angelina, Houston, Trinity,\nPolk and Tyler Counties.\n\nFor the Neches River...including Neches, Alto, Diboll...Minor\nflooding is forecast.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Neches River near Alto.\n\n* WHEN...Until Wednesday morning.\n\n* IMPACTS...At 16.0 feet, Boat ramps and picnic areas near the river\nwill begin to flood. Ranchers should move cattle and equipment\nnear the river to higher ground.\n\n* ADDITIONAL DETAILS...\n- At 7:15 AM CDT Monday the stage was 16.3 feet.\n- Bankfull stage is 16.0 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 7:15 AM CDT Monday was 16.6 feet.\n- Forecast...The river is expected to fall below flood stage\nlate this evening and continue falling to 13.5 feet Saturday\nmorning.\n- Flood stage is 16.0 feet.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Do not drive cars through flooded areas.\nCaution is urged when walking near riverbanks.\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nMotorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nFor more hydrologic information, copy and paste the following website\naddress into your favorite web browser URL bar:\nhttps://water.noaa.gov/wfo/SHV\n\nThe next statement will be issued Tuesday morning at 830 AM CDT."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Angelina, TX; Houston, TX; Polk, TX; Trinity, TX; Tyler, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning is extended for the following rivers in Texas...\n\nNeches River Near Alto affecting Cherokee, Trinity, Anderson and\nHouston Counties.\n\n...The Flood Warning continues for the following rivers in Texas...\n\nNeches River Near Neches affecting Cherokee, Anderson and Houston\nCounties.\n\nNeches River Near Diboll affecting Angelina, Houston, Trinity,\nPolk and Tyler Counties.\n\nFor the Neches River...including Neches, Alto, Diboll...Minor\nflooding is forecast.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Neches River near Diboll.\n\n* WHEN...Until further notice.\n\n* IMPACTS...At 14.0 feet, Minor lowland flooding of boat ramps,\npaths, and trails.  Move livestock and equipment to higher ground.\n\n* ADDITIONAL DETAILS...\n- At 7:15 AM CDT Monday the stage was 13.3 feet.\n- Bankfull stage is 12.0 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 7:15 AM CDT Monday was 13.4 feet.\n- Forecast...The river is expected to fall to 12.2 feet\nSaturday morning.\n- Flood stage is 12.0 feet.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Do not drive cars through flooded areas.\nCaution is urged when walking near riverbanks.\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nMotorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nFor more hydrologic information, copy and paste the following website\naddress into your favorite web browser URL bar:\nhttps://water.noaa.gov/wfo/SHV\n\nThe next statement will be issued Tuesday morning at 830 AM CDT."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Angelina, TX; Nacogdoches, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in Texas...\n\nAngelina River Near Lufkin affecting Nacogdoches and Angelina\nCounties.\n\nFor the Angelina River...including Lufkin...Minor flooding is\nforecast.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Angelina River near Lufkin.\n\n* WHEN...Until Sunday afternoon.\n\n* IMPACTS...At 162.0 feet, Minor lowland to diminish and end on the\nlower Angelina River.\n\n* ADDITIONAL DETAILS...\n- At 8:00 AM CDT Monday the stage was 163.1 feet.\n- Bankfull stage is 158.5 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 8:00 AM CDT Monday was 163.5 feet.\n- Forecast...The river is expected to fall below flood stage\nearly Saturday morning and continue falling to 160.9 feet\nSaturday morning.\n- Flood stage is 161.0 feet.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Do not drive cars through flooded areas.\nCaution is urged when walking near riverbanks.\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nMotorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nFor more hydrologic information, copy and paste the following website\naddress into your favorite web browser URL bar:\nhttps://water.noaa.gov/wfo/SHV\n\nThe next statement will be issued Tuesday morning at 830 AM CDT."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Denton, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in Texas...\n\nDenton Creek Near Justin affecting Denton County.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Denton Creek near Justin.\n\n* WHEN...Until late this evening.\n\n* ADDITIONAL DETAILS...\n- At 8:00 AM CDT Monday the stage was 12.5 feet.\n- Bankfull stage is 10.0 feet.\n- Flood stage is 10.0 feet.\n- Forecast...The river is expected to fall below flood stage\nlate this morning and continue falling to 3.6 feet Saturday\nmorning.",
+          "instructions": "Do not drive cars through flooded areas.\nCaution is urged when walking near riverbanks.\n\nAdditional information is available at www.water.noaa.gov/wfo/FWD."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Wise, TX",
+          "severity": "Severe",
+          "description": "...The National Weather Service in Fort Worth TX has issued a Flood\nWarning for the following rivers in Texas...\n\nWest Fork Trinity River Near Boyd affecting Wise County.\n\n* WHAT...Minor flooding is forecast.\n\n* WHERE...West Fork Trinity River near Boyd.\n\n* WHEN...Until early tomorrow afternoon.\n\n* IMPACTS...At 16.0 feet, Minor overbank flooding is expected. Farm\nand ranch land adjacent to the river will flood, and a few rural\nroads may be affected.\n\n* ADDITIONAL DETAILS...\n- At 7:15 AM CDT Monday the stage was 15.4 feet.\n- Bankfull stage is 16.0 feet.\n- Flood stage is 16.0 feet.\n- Forecast...The river is expected to rise above flood stage\nlate this morning to a crest of 16.4 feet this afternoon. It\nwill then fall below flood stage just after midnight tonight.",
+          "instructions": "Do not drive cars through flooded areas.\nCaution is urged when walking near riverbanks.\n\nAdditional information is available at www.water.noaa.gov/wfo/FWD."
+        },
+        {
+          "event": "Special Weather Statement",
+          "area": "Brooks; Inland Kenedy; Starr; Southern Hidalgo; Northern Hidalgo",
+          "severity": "Moderate",
+          "description": "The combination of well-above normal temperatures and increased\nhumidity values will produce Heat Index values up to 110 degrees\nfor a few hours this afternoon across portions of Starr, Hidalgo,\nBrooks, and Kenedy counties. A few locations, especially along\nthe Rio Grande in Starr and Hidalgo counties, may briefly\nexperience Heat Index values up to 112 degrees mid-afternoon.\n\nRemember to drink plenty of water, wear lightweight and light-\ncolored clothing, and take frequent breaks from the heat. Children\nand pets should never be left unattended in vehicles.",
+          "instructions": null
+        },
+        {
+          "event": "Red Flag Warning",
+          "area": "Southwest Mountains; Southwest Deserts and Lowlands; South Central Lowlands And Southern Rio Grande Valley; Capitan And Sacramento Mountains; El Paso; Hudspeth",
+          "severity": "Severe",
+          "description": "...CRITICAL FIRE WEATHER CONDITIONS MONDAY FOR SOUTHERN NEW\nMEXICO AND FAR WEST TEXAS...\n\n.A passing upper-level trough will keep winds strong across the\nregion again today. Strong winds aloft will mix down to the\nsurface, and a surface trough to the east will result in strong\nwinds at the surface. The result will be strong and gusty west to\nwest- northwest winds, with gusts 45 to 55 mph at times. In\naddition, dry conditions remain with single digit minimum relative\nhumidity across the lowlands, and low teens across the mountains.\nThis will result in an afternoon of critical fire weather\nconditions today.\n\n* AFFECTED AREA...Fire Weather Zone 055 Texas Fire Weather Zone\n055 El Paso County, Fire Weather Zone 056 Texas Fire Weather\nZone 056 Hudspeth County, Fire Weather Zone 110 Southwest\nMountains/Gila NF/Apache NF/GLZ, Fire Weather Zone 111\nSouthwest Deserts and Lowlands/Las Cruces BLM/GLZ, Fire\nWeather Zone 112 South Central Lowlands and Southern Rio\nGrande Valley/BLM/GLZ and Fire Weather Zone 113 Capitan and\nSacramento Mountains/Lincoln NF/LNZ.\n\n* AFFECTED AREA...Southwest and South-Central New Mexico including\nFire Weather Zones NMZ110, NMZ111, NMZ112, and NMZ113. This\nincludes the Lincoln and Gila National Forests. Also, Far West\nTexas, including Fire Weather Zones TXZ055 and TXZ056 covering\nEl Paso and Hudspeth Counties.\n\n* TIMING...Today from Noon to 9 PM MDT.\n\n* WINDS...West 25 to 35 mph with gusts 40 to 50 mph.\n\n* RELATIVE HUMIDITY...Dropping to 7 to 10 percent across the\nlowlands, and 13 to 17 percent across area mountains.\n\n* EXPERIMENTAL RFTI...5 to 7 or Critical to Extreme.\n\n* IMPACTS...Any fires that develop will likely spread rapidly.\nOutdoor burning is not recommended.",
+          "instructions": "A Red Flag Warning means that critical fire weather conditions\nare either occurring now, or will shortly. A combination of\nstrong winds, low relative humidity, and warm temperatures can\ncontribute to extreme fire behavior."
+        },
+        {
+          "event": "Wind Advisory",
+          "area": "Otero Mesa; Salt Basin",
+          "severity": "Moderate",
+          "description": "* WHAT...West winds 25 to 35 mph with gusts up to 55 mph expected.\n\n* WHERE...In New Mexico, Otero Mesa. In Texas, Salt Basin.\n\n* WHEN...From noon today to 8 PM MDT this evening.\n\n* IMPACTS...Gusty winds will blow around unsecured objects. Tree\nlimbs could be blown down and a few power outages may result. Risk\nof wildfire will be high.",
+          "instructions": "Winds this strong can make driving difficult, especially for high\nprofile vehicles. Use extra caution."
+        },
+        {
+          "event": "Red Flag Warning",
+          "area": "Sacramento Foothills and Guadalupe Mountains; Chaves County Plains; Eddy Plains; Lea; Loving; Guadalupe Mountains Above 7000 Feet; Guadalupe and Delaware Mountains; Van Horn and Highway 54 Corridor; Eastern Culberson County; Reeves County Plains; Chinati Mountains; Marfa Plateau; Davis Mountains; Davis Mountains Foothills",
+          "severity": "Severe",
+          "description": "..RED FLAG WARNING IN EFFECT FROM NOON CDT /11 AM MDT/ TODAY TO\n10 PM CDT /9 PM MDT/ THIS EVENING FOR 20 FOOT WINDS OF 20 MPH OR\nGREATER, RELATIVE HUMIDITY OF 15 PERCENT OR LESS, AND VERY HIGH\nFIRE DANGER ACROSS SOUTHEAST NEW MEXICO AND MUCH OF WEST TEXAS...\n\n..RED FLAG WARNING IN EFFECT FROM NOON CDT /11 AM MDT/ TODAY TO\n10 PM CDT /9 PM MDT/ THIS EVENING FOR 20 FOOT WINDS OF 20 MPH OR\nGREATER, RELATIVE HUMIDITY OF 15 PERCENT OR LESS, AND VERY HIGH\nFIRE DANGER ACROSS SOUTHEAST NEW MEXICO AND MUCH OF WEST TEXAS...\n\n* WINDS...West 25 to 35 mph with gusts up to 45 mph.\n\n* RELATIVE HUMIDITY...As low as 9 percent.\n\n* RFTI...5 or critical.\n\n* IMPACTS...Any fires that develop will likely spread rapidly.\nOutdoor burning is not recommended.\n\n* SEVERITY...\n\nFUELS (ERC)...90th+ percentile...5 (out of 5).\n\nWEATHER...Critical...3 (out of 5).\n\nFIRE ENVIRONMENT...8 (out of 10).",
+          "instructions": "A Red Flag Warning means that critical fire weather conditions\nare either occurring now or will shortly. A combination of strong\nwinds, low relative humidity and warm temperatures will increase\npotential for fire growth."
+        },
+        {
+          "event": "Red Flag Warning",
+          "area": "Gaines; Dawson; Andrews; Martin; Winkler; Ector; Midland; Ward; Crane; Upton; Pecos; Central Brewster County; Chisos Basin; Presidio Valley; Lower Brewster County",
+          "severity": "Severe",
+          "description": "..RED FLAG WARNING IN EFFECT FROM NOON CDT /11 AM MDT/ TODAY TO\n10 PM CDT /9 PM MDT/ THIS EVENING FOR 20 FOOT WINDS OF 20 MPH OR\nGREATER, RELATIVE HUMIDITY OF 15 PERCENT OR LESS, AND VERY HIGH\nFIRE DANGER ACROSS SOUTHEAST NEW MEXICO AND MUCH OF WEST TEXAS...\n\n..RED FLAG WARNING IN EFFECT FROM NOON CDT /11 AM MDT/ TODAY TO\n10 PM CDT /9 PM MDT/ THIS EVENING FOR 20 FOOT WINDS OF 20 MPH OR\nGREATER, RELATIVE HUMIDITY OF 15 PERCENT OR LESS, AND VERY HIGH\nFIRE DANGER ACROSS SOUTHEAST NEW MEXICO AND MUCH OF WEST TEXAS...\n\n* WINDS...West 20 to 30 mph with gusts up to 45 mph.\n\n* RELATIVE HUMIDITY...As low as 7 percent.\n\n* RFTI...7 or extreme.\n\n* IMPACTS...\n\n* SEVERITY...\n\nFUELS (ERC)...90th+ percentile...5 (out of 5).\n\nWEATHER...Critical...3 (out of 5).\n\nFIRE ENVIRONMENT...8 (out of 10).",
+          "instructions": "A Red Flag Warning means that critical fire weather conditions\nare either occurring now or will shortly. A combination of strong\nwinds, low relative humidity and warm temperatures will increase\npotential for fire growth."
+        },
+        {
+          "event": "Rip Current Statement",
+          "area": "Matagorda Islands; Brazoria Islands; Galveston Island; Bolivar Peninsula",
+          "severity": "Moderate",
+          "description": "* WHAT...Dangerous rip currents.\n\n* WHERE...Gulf-facing beaches, including the Matagorda\nPeninsula, Brazoria County beaches, Galveston Island and the\nBolivar Peninsula.\n\n* WHEN...Through this evening.\n\n* IMPACTS...Rip currents can sweep even the best swimmers away\nfrom shore into deeper water.",
+          "instructions": "Swim near a lifeguard and away from rocks, jetties, and piers. If\ncaught in a rip current, relax and float. Don't swim against the\ncurrent. If able, swim in a direction following the shoreline. If\nunable to escape, face the shore and call or wave for help."
+        },
+        {
+          "event": "Wind Advisory",
+          "area": "Northern Lea County; Central Lea County; Southern Lea County; Gaines; Dawson; Borden; Andrews; Martin; Howard; Loving; Winkler; Ector; Midland; Glasscock; Ward; Crane; Upton; Pecos",
+          "severity": "Moderate",
+          "description": "* WHAT...West winds 25 to 35 mph with gusts up to 50 mph expected.\n\n* WHERE...Portions of southeast New Mexico and southwest and western\nTexas.\n\n* WHEN...From 11 AM MDT /noon CDT/ this morning to 10 PM MDT /11 PM\nCDT/ this evening.\n\n* IMPACTS...Gusty winds may blow around unsecured objects.",
+          "instructions": "Winds this strong can make driving difficult, especially for high\nprofile vehicles. Use extra caution and keep both hands on the\nsteering wheel.\n\nUse caution when driving as blowing dust may reduce visibility."
+        },
+        {
+          "event": "High Wind Warning",
+          "area": "Guadalupe Mountains of Eddy County; Eddy County Plains; Guadalupe Mountains Above 7000 Feet; Guadalupe and Delaware Mountains; Eastern Culberson County; Davis Mountains",
+          "severity": "Severe",
+          "description": "* WHAT...West winds 30 to 40 mph with gusts up to 70 mph expected...\nhigher in the mountains.\n\n* WHERE...Guadalupe Mountains of west Texas and Southeast New\nMexico, Eddy County Plains, Eastern Culberson, and Davis Mountains.\n\n* WHEN...From 11 AM MDT /noon CDT/ this morning to 10 PM MDT /11 PM\nCDT/ this evening.\n\n* IMPACTS...Travel will be difficult, especially for high profile\nvehicles like campers, vans, and tractor trailers. Severe\nturbulence near the mountains will be hazardous for low flying\nlight aircraft.",
+          "instructions": "Winds will be particularly hazardous at higher elevations where the\nstrongest winds are likely to occur. Be especially careful driving\nin these mountainous areas. People driving high-profile vehicles\nshould strongly consider postponing travel in these areas until the\nwinds subside.\n\nUse caution if flying low near the mountains as severe turbulence is\npossible.\n\nUse caution when driving as blowing dust may reduce visibility."
+        },
+        {
+          "event": "Wind Advisory",
+          "area": "Van Horn and Highway 54 Corridor; Reeves County Plains; Chinati Mountains; Marfa Plateau; Davis Mountains Foothills",
+          "severity": "Moderate",
+          "description": "* WHAT...West winds 25to 35 mph with gusts up to 55 mph expected.\n\n* WHERE...Chinati Mountains, Davis Mountains Foothills, Marfa\nPlateau, Van Horn and Highway 54 Corridor, and Reeves County\nPlains.\n\n* WHEN...From noon today to 11 PM CDT this evening.\n\n* IMPACTS...Gusty winds may blow around unsecured objects.",
+          "instructions": "Winds this strong can make driving difficult, especially for high\nprofile vehicles. Use extra caution and keep both hands on the\nsteering wheel.\n\nUse caution when driving as blowing dust may reduce visibility."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Liberty, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in Texas...\n\nTrinity River at Liberty affecting Liberty County.\n\nFor the Trinity River...including Crockett, Riverside, Romayor,\nGoodrich, Liberty, Moss Bluff...Moderate flooding is forecast.\n\n* WHAT...Moderate flooding is occurring and moderate flooding is\nforecast.\n\n* WHERE...Trinity River at Liberty.\n\n* WHEN...Until late Thursday morning.\n\n* IMPACTS...At 27.0 feet, Moderate lowland flooding begins as roads\ninto several outlying communities above Liberty are closed with\nresidents in 5 or 6 subdivisions cut off if not evacuated.\n\n* ADDITIONAL DETAILS...\n- At 7:15 PM CDT Sunday the stage was 27.7 feet.\n- Bankfull stage is 21.0 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 7:15 PM CDT Sunday was 27.9 feet.\n- Forecast...The river is expected to fall below flood stage\nlate Wednesday evening and continue falling to 23.7 feet\nFriday evening.\n- Flood stage is 26.0 feet.\n- Flood History...This crest compares to a previous crest of\n27.7 feet on 03/16/1997.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Motorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nAdditional information is available at www.weather.gov/hgx.\n\nThe next statement will be issued Monday afternoon at 230 PM CDT."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Chambers, TX; Liberty, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in Texas...\n\nTrinity River near Moss Bluff affecting Liberty and Chambers\nCounties.\n\nFor the Trinity River...including Crockett, Riverside, Romayor,\nGoodrich, Liberty, Moss Bluff...Moderate flooding is forecast.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Trinity River near Moss Bluff.\n\n* WHEN...Until further notice.\n\n* IMPACTS...At 15.2 feet, Moderate lowland flooding begins in the\nvicinity of the gage.\n\n* ADDITIONAL DETAILS...\n- At 7:30 PM CDT Sunday the stage was 14.2 feet.\n- Bankfull stage is 9.2 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 7:30 PM CDT Sunday was 14.3 feet.\n- Forecast...The river is expected to fall to 12.6 feet Friday\nevening.\n- Flood stage is 12.2 feet.\n- Flood History...This crest compares to a previous crest of\n14.2 feet on 10/22/1994.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Motorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nAdditional information is available at www.weather.gov/hgx.\n\nThe next statement will be issued Monday afternoon at 215 PM CDT."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Polk, TX; San Jacinto, TX; Trinity, TX; Walker, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in Texas...\n\nTrinity River at Riverside affecting Trinity, Walker, Polk and\nSan Jacinto Counties.\n\nFor the Trinity River...including Crockett, Riverside, Romayor,\nGoodrich, Liberty, Moss Bluff...Moderate flooding is forecast.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Trinity River at Riverside.\n\n* WHEN...Until early Wednesday afternoon.\n\n* IMPACTS...At 134.0 feet, Minor lowland flooding continues with the\nboat ramp in the Deep River Plantation Subdivision in Walker\nCounty inundated. Backwater flooding up Thomas Lake in Walker\nCounty floods the boat ramp in the Green Rich Shores Subdivision\nin Walker County.\n\n* ADDITIONAL DETAILS...\n- At 7:30 PM CDT Sunday the stage was 134.4 feet.\n- Bankfull stage is 132.0 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 7:30 PM CDT Sunday was 134.7 feet.\n- Forecast...The river is expected to fall below flood stage\nearly Wednesday morning and continue falling to 132.8 feet\nFriday evening.\n- Flood stage is 133.5 feet.\n- Flood History...This crest compares to a previous crest of\n134.4 feet on 04/13/2007.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Motorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nAdditional information is available at www.weather.gov/hgx.\n\nThe next statement will be issued Monday afternoon at 215 PM CDT."
+        }
+      ]
+    },
+    {
+      "state": "TX",
+      "retrieved_at": "2025-05-19T13:09:55.930252",
+      "alerts": [
+        {
+          "event": "Special Weather Statement",
+          "area": "Brooks; Inland Kenedy; Starr; Southern Hidalgo; Northern Hidalgo",
+          "severity": "Moderate",
+          "description": "The combination of well-above normal temperatures and increased\nhumidity values will produce Heat Index values up to 110 degrees\nfor a few hours this afternoon across portions of Starr, Hidalgo,\nBrooks, and Kenedy counties. A few locations, especially along\nthe Rio Grande in Starr and Hidalgo counties, may briefly\nexperience Heat Index values up to 112 degrees mid-afternoon.\n\nRemember to drink plenty of water, wear lightweight and light-\ncolored clothing, and take frequent breaks from the heat. Children\nand pets should never be left unattended in vehicles.",
+          "instructions": null
+        },
+        {
+          "event": "Red Flag Warning",
+          "area": "Southwest Mountains; Southwest Deserts and Lowlands; South Central Lowlands And Southern Rio Grande Valley; Capitan And Sacramento Mountains; El Paso; Hudspeth",
+          "severity": "Severe",
+          "description": "...CRITICAL FIRE WEATHER CONDITIONS MONDAY FOR SOUTHERN NEW\nMEXICO AND FAR WEST TEXAS...\n\n.A passing upper-level trough will keep winds strong across the\nregion again today. Strong winds aloft will mix down to the\nsurface, and a surface trough to the east will result in strong\nwinds at the surface. The result will be strong and gusty west to\nwest- northwest winds, with gusts 45 to 55 mph at times. In\naddition, dry conditions remain with single digit minimum relative\nhumidity across the lowlands, and low teens across the mountains.\nThis will result in an afternoon of critical fire weather\nconditions today.\n\n* AFFECTED AREA...Fire Weather Zone 055 Texas Fire Weather Zone\n055 El Paso County, Fire Weather Zone 056 Texas Fire Weather\nZone 056 Hudspeth County, Fire Weather Zone 110 Southwest\nMountains/Gila NF/Apache NF/GLZ, Fire Weather Zone 111\nSouthwest Deserts and Lowlands/Las Cruces BLM/GLZ, Fire\nWeather Zone 112 South Central Lowlands and Southern Rio\nGrande Valley/BLM/GLZ and Fire Weather Zone 113 Capitan and\nSacramento Mountains/Lincoln NF/LNZ.\n\n* AFFECTED AREA...Southwest and South-Central New Mexico including\nFire Weather Zones NMZ110, NMZ111, NMZ112, and NMZ113. This\nincludes the Lincoln and Gila National Forests. Also, Far West\nTexas, including Fire Weather Zones TXZ055 and TXZ056 covering\nEl Paso and Hudspeth Counties.\n\n* TIMING...Today from Noon to 9 PM MDT.\n\n* WINDS...West 25 to 35 mph with gusts 40 to 50 mph.\n\n* RELATIVE HUMIDITY...Dropping to 7 to 10 percent across the\nlowlands, and 13 to 17 percent across area mountains.\n\n* EXPERIMENTAL RFTI...5 to 7 or Critical to Extreme.\n\n* IMPACTS...Any fires that develop will likely spread rapidly.\nOutdoor burning is not recommended.",
+          "instructions": "A Red Flag Warning means that critical fire weather conditions\nare either occurring now, or will shortly. A combination of\nstrong winds, low relative humidity, and warm temperatures can\ncontribute to extreme fire behavior."
+        },
+        {
+          "event": "Wind Advisory",
+          "area": "Otero Mesa; Salt Basin",
+          "severity": "Moderate",
+          "description": "* WHAT...West winds 25 to 35 mph with gusts up to 55 mph expected.\n\n* WHERE...In New Mexico, Otero Mesa. In Texas, Salt Basin.\n\n* WHEN...From noon today to 8 PM MDT this evening.\n\n* IMPACTS...Gusty winds will blow around unsecured objects. Tree\nlimbs could be blown down and a few power outages may result. Risk\nof wildfire will be high.",
+          "instructions": "Winds this strong can make driving difficult, especially for high\nprofile vehicles. Use extra caution."
+        },
+        {
+          "event": "Red Flag Warning",
+          "area": "Sacramento Foothills and Guadalupe Mountains; Chaves County Plains; Eddy Plains; Lea; Loving; Guadalupe Mountains Above 7000 Feet; Guadalupe and Delaware Mountains; Van Horn and Highway 54 Corridor; Eastern Culberson County; Reeves County Plains; Chinati Mountains; Marfa Plateau; Davis Mountains; Davis Mountains Foothills",
+          "severity": "Severe",
+          "description": "..RED FLAG WARNING IN EFFECT FROM NOON CDT /11 AM MDT/ TODAY TO\n10 PM CDT /9 PM MDT/ THIS EVENING FOR 20 FOOT WINDS OF 20 MPH OR\nGREATER, RELATIVE HUMIDITY OF 15 PERCENT OR LESS, AND VERY HIGH\nFIRE DANGER ACROSS SOUTHEAST NEW MEXICO AND MUCH OF WEST TEXAS...\n\n..RED FLAG WARNING IN EFFECT FROM NOON CDT /11 AM MDT/ TODAY TO\n10 PM CDT /9 PM MDT/ THIS EVENING FOR 20 FOOT WINDS OF 20 MPH OR\nGREATER, RELATIVE HUMIDITY OF 15 PERCENT OR LESS, AND VERY HIGH\nFIRE DANGER ACROSS SOUTHEAST NEW MEXICO AND MUCH OF WEST TEXAS...\n\n* WINDS...West 25 to 35 mph with gusts up to 45 mph.\n\n* RELATIVE HUMIDITY...As low as 9 percent.\n\n* RFTI...5 or critical.\n\n* IMPACTS...Any fires that develop will likely spread rapidly.\nOutdoor burning is not recommended.\n\n* SEVERITY...\n\nFUELS (ERC)...90th+ percentile...5 (out of 5).\n\nWEATHER...Critical...3 (out of 5).\n\nFIRE ENVIRONMENT...8 (out of 10).",
+          "instructions": "A Red Flag Warning means that critical fire weather conditions\nare either occurring now or will shortly. A combination of strong\nwinds, low relative humidity and warm temperatures will increase\npotential for fire growth."
+        },
+        {
+          "event": "Red Flag Warning",
+          "area": "Gaines; Dawson; Andrews; Martin; Winkler; Ector; Midland; Ward; Crane; Upton; Pecos; Central Brewster County; Chisos Basin; Presidio Valley; Lower Brewster County",
+          "severity": "Severe",
+          "description": "..RED FLAG WARNING IN EFFECT FROM NOON CDT /11 AM MDT/ TODAY TO\n10 PM CDT /9 PM MDT/ THIS EVENING FOR 20 FOOT WINDS OF 20 MPH OR\nGREATER, RELATIVE HUMIDITY OF 15 PERCENT OR LESS, AND VERY HIGH\nFIRE DANGER ACROSS SOUTHEAST NEW MEXICO AND MUCH OF WEST TEXAS...\n\n..RED FLAG WARNING IN EFFECT FROM NOON CDT /11 AM MDT/ TODAY TO\n10 PM CDT /9 PM MDT/ THIS EVENING FOR 20 FOOT WINDS OF 20 MPH OR\nGREATER, RELATIVE HUMIDITY OF 15 PERCENT OR LESS, AND VERY HIGH\nFIRE DANGER ACROSS SOUTHEAST NEW MEXICO AND MUCH OF WEST TEXAS...\n\n* WINDS...West 20 to 30 mph with gusts up to 45 mph.\n\n* RELATIVE HUMIDITY...As low as 7 percent.\n\n* RFTI...7 or extreme.\n\n* IMPACTS...\n\n* SEVERITY...\n\nFUELS (ERC)...90th+ percentile...5 (out of 5).\n\nWEATHER...Critical...3 (out of 5).\n\nFIRE ENVIRONMENT...8 (out of 10).",
+          "instructions": "A Red Flag Warning means that critical fire weather conditions\nare either occurring now or will shortly. A combination of strong\nwinds, low relative humidity and warm temperatures will increase\npotential for fire growth."
+        },
+        {
+          "event": "Rip Current Statement",
+          "area": "Matagorda Islands; Brazoria Islands; Galveston Island; Bolivar Peninsula",
+          "severity": "Moderate",
+          "description": "* WHAT...Dangerous rip currents.\n\n* WHERE...Gulf-facing beaches, including the Matagorda\nPeninsula, Brazoria County beaches, Galveston Island and the\nBolivar Peninsula.\n\n* WHEN...Through this evening.\n\n* IMPACTS...Rip currents can sweep even the best swimmers away\nfrom shore into deeper water.",
+          "instructions": "Swim near a lifeguard and away from rocks, jetties, and piers. If\ncaught in a rip current, relax and float. Don't swim against the\ncurrent. If able, swim in a direction following the shoreline. If\nunable to escape, face the shore and call or wave for help."
+        },
+        {
+          "event": "Wind Advisory",
+          "area": "Northern Lea County; Central Lea County; Southern Lea County; Gaines; Dawson; Borden; Andrews; Martin; Howard; Loving; Winkler; Ector; Midland; Glasscock; Ward; Crane; Upton; Pecos",
+          "severity": "Moderate",
+          "description": "* WHAT...West winds 25 to 35 mph with gusts up to 50 mph expected.\n\n* WHERE...Portions of southeast New Mexico and southwest and western\nTexas.\n\n* WHEN...From 11 AM MDT /noon CDT/ this morning to 10 PM MDT /11 PM\nCDT/ this evening.\n\n* IMPACTS...Gusty winds may blow around unsecured objects.",
+          "instructions": "Winds this strong can make driving difficult, especially for high\nprofile vehicles. Use extra caution and keep both hands on the\nsteering wheel.\n\nUse caution when driving as blowing dust may reduce visibility."
+        },
+        {
+          "event": "High Wind Warning",
+          "area": "Guadalupe Mountains of Eddy County; Eddy County Plains; Guadalupe Mountains Above 7000 Feet; Guadalupe and Delaware Mountains; Eastern Culberson County; Davis Mountains",
+          "severity": "Severe",
+          "description": "* WHAT...West winds 30 to 40 mph with gusts up to 70 mph expected...\nhigher in the mountains.\n\n* WHERE...Guadalupe Mountains of west Texas and Southeast New\nMexico, Eddy County Plains, Eastern Culberson, and Davis Mountains.\n\n* WHEN...From 11 AM MDT /noon CDT/ this morning to 10 PM MDT /11 PM\nCDT/ this evening.\n\n* IMPACTS...Travel will be difficult, especially for high profile\nvehicles like campers, vans, and tractor trailers. Severe\nturbulence near the mountains will be hazardous for low flying\nlight aircraft.",
+          "instructions": "Winds will be particularly hazardous at higher elevations where the\nstrongest winds are likely to occur. Be especially careful driving\nin these mountainous areas. People driving high-profile vehicles\nshould strongly consider postponing travel in these areas until the\nwinds subside.\n\nUse caution if flying low near the mountains as severe turbulence is\npossible.\n\nUse caution when driving as blowing dust may reduce visibility."
+        },
+        {
+          "event": "Wind Advisory",
+          "area": "Van Horn and Highway 54 Corridor; Reeves County Plains; Chinati Mountains; Marfa Plateau; Davis Mountains Foothills",
+          "severity": "Moderate",
+          "description": "* WHAT...West winds 25to 35 mph with gusts up to 55 mph expected.\n\n* WHERE...Chinati Mountains, Davis Mountains Foothills, Marfa\nPlateau, Van Horn and Highway 54 Corridor, and Reeves County\nPlains.\n\n* WHEN...From noon today to 11 PM CDT this evening.\n\n* IMPACTS...Gusty winds may blow around unsecured objects.",
+          "instructions": "Winds this strong can make driving difficult, especially for high\nprofile vehicles. Use extra caution and keep both hands on the\nsteering wheel.\n\nUse caution when driving as blowing dust may reduce visibility."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Denton, TX",
+          "severity": "Severe",
+          "description": "...The National Weather Service in Fort Worth TX has issued a Flood\nWarning for the following rivers in Texas...\n\nDenton Creek Near Justin affecting Denton County.\n\n* WHAT...Minor flooding is forecast.\n\n* WHERE...Denton Creek near Justin.\n\n* WHEN...Until early Tuesday morning.\n\n* IMPACTS...At 10.0 feet, Minor out of bank flooding will occur to\nfarm and ranch lands near the creek.\n\n* ADDITIONAL DETAILS...\n- At 11:00 PM CDT Sunday the stage was 7.2 feet.\n- Bankfull stage is 10.0 feet.\n- Flood stage is 10.0 feet.\n- Forecast...The river is expected to rise above flood stage\njust after midnight tonight to a crest of 10.8 feet just\nafter midnight tonight. It will then fall below flood stage\nearly tomorrow afternoon.",
+          "instructions": "Do not drive cars through flooded areas.\nCaution is urged when walking near riverbanks.\n\nAdditional information is available at www.water.noaa.gov/wfo/FWD."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Angelina, TX; Nacogdoches, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in Texas...\n\nAngelina River Near Lufkin affecting Nacogdoches and Angelina\nCounties.\n\nFor the Angelina River...including Alto, Lufkin...Minor flooding is\nforecast.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Angelina River near Lufkin.\n\n* WHEN...Until further notice.\n\n* IMPACTS...At 162.0 feet, Minor lowland to diminish and end on the\nlower Angelina River.\n\n* ADDITIONAL DETAILS...\n- At 9:45 PM CDT Sunday the stage was 163.3 feet.\n- Bankfull stage is 158.5 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 9:45 PM CDT Sunday was 163.7 feet.\n- Forecast...The river is expected to fall to 161.1 feet Friday\nevening.\n- Flood stage is 161.0 feet.\n- Flood History...No available flood history.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Do not drive cars through flooded areas.\nCaution is urged when walking near riverbanks.\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nMotorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nFor more hydrologic information, copy and paste the following website\naddress into your favorite web browser URL bar:\nhttps://water.noaa.gov/wfo/SHV\n\nThe next statement will be issued Monday evening at 1015 PM CDT."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Anderson, TX; Cherokee, TX; Houston, TX; Trinity, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning is extended for the following rivers in Texas...\n\nNeches River Near Alto affecting Cherokee, Anderson, Trinity and\nHouston Counties.\n\n...The Flood Warning continues for the following rivers in Texas...\n\nNeches River Near Neches affecting Cherokee, Anderson and Houston\nCounties.\n\nNeches River Near Diboll affecting Trinity, Houston, Tyler, Polk\nand Angelina Counties.\n\nFor the Neches River...including Lake Palestine, Neches, Alto,\nDiboll, Rockland...Minor flooding is forecast.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Neches River near Alto.\n\n* WHEN...Until late Tuesday night.\n\n* IMPACTS...At 16.0 feet, Boat ramps and picnic areas near the river\nwill begin to flood. Ranchers should move cattle and equipment\nnear the river to higher ground.\n\n* ADDITIONAL DETAILS...\n- At 9:15 PM CDT Sunday the stage was 16.4 feet.\n- Bankfull stage is 16.0 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 9:15 PM CDT Sunday was 16.7 feet.\n- Forecast...The river is expected to fall below flood stage\ntomorrow afternoon and continue falling to 13.9 feet Friday\nevening.\n- Flood stage is 16.0 feet.\n- Flood History...This crest compares to a previous crest of\n16.5 feet on 03/12/2012.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Do not drive cars through flooded areas.\nCaution is urged when walking near riverbanks.\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nMotorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nFor more hydrologic information, copy and paste the following website\naddress into your favorite web browser URL bar:\nhttps://water.noaa.gov/wfo/SHV\n\nThe next statement will be issued Monday evening at 1015 PM CDT."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Anderson, TX; Cherokee, TX; Houston, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning is extended for the following rivers in Texas...\n\nNeches River Near Alto affecting Cherokee, Anderson, Trinity and\nHouston Counties.\n\n...The Flood Warning continues for the following rivers in Texas...\n\nNeches River Near Neches affecting Cherokee, Anderson and Houston\nCounties.\n\nNeches River Near Diboll affecting Trinity, Houston, Tyler, Polk\nand Angelina Counties.\n\nFor the Neches River...including Lake Palestine, Neches, Alto,\nDiboll, Rockland...Minor flooding is forecast.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Neches River near Neches.\n\n* WHEN...Until Wednesday morning.\n\n* IMPACTS...At 12.0 feet, Expect minor lowland flooding of the\nheavily wooded floodplain. Ranchers that may have livestock and\nequipment in the river bottoms should move them to higher ground.\nExpect minor flooding of the boat ramp.\n\n* ADDITIONAL DETAILS...\n- At 9:30 PM CDT Sunday the stage was 12.5 feet.\n- Bankfull stage is 12.0 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 9:30 PM CDT Sunday was 12.9 feet.\n- Forecast...The river is expected to fall below flood stage\nearly Tuesday afternoon and continue falling to 10.1 feet\nFriday evening.\n- Flood stage is 12.0 feet.\n- Flood History...This crest compares to a previous crest of\n12.5 feet on 04/10/2014.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Do not drive cars through flooded areas.\nCaution is urged when walking near riverbanks.\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nMotorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nFor more hydrologic information, copy and paste the following website\naddress into your favorite web browser URL bar:\nhttps://water.noaa.gov/wfo/SHV\n\nThe next statement will be issued Monday evening at 1015 PM CDT."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Angelina, TX; Houston, TX; Polk, TX; Trinity, TX; Tyler, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning is extended for the following rivers in Texas...\n\nNeches River Near Alto affecting Cherokee, Anderson, Trinity and\nHouston Counties.\n\n...The Flood Warning continues for the following rivers in Texas...\n\nNeches River Near Neches affecting Cherokee, Anderson and Houston\nCounties.\n\nNeches River Near Diboll affecting Trinity, Houston, Tyler, Polk\nand Angelina Counties.\n\nFor the Neches River...including Lake Palestine, Neches, Alto,\nDiboll, Rockland...Minor flooding is forecast.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Neches River near Diboll.\n\n* WHEN...Until further notice.\n\n* IMPACTS...At 14.0 feet, Minor lowland flooding of boat ramps,\npaths, and trails.  Move livestock and equipment to higher ground.\n\n* ADDITIONAL DETAILS...\n- At 9:15 PM CDT Sunday the stage was 13.3 feet.\n- Bankfull stage is 12.0 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 9:15 PM CDT Sunday was 13.4 feet.\n- Forecast...The river is expected to fall to 12.3 feet Friday\nevening.\n- Flood stage is 12.0 feet.\n- Flood History...This crest compares to a previous crest of\n13.2 feet on 04/28/1964.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Do not drive cars through flooded areas.\nCaution is urged when walking near riverbanks.\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nMotorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nFor more hydrologic information, copy and paste the following website\naddress into your favorite web browser URL bar:\nhttps://water.noaa.gov/wfo/SHV\n\nThe next statement will be issued Monday evening at 1015 PM CDT."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Beauregard, LA; Calcasieu, LA; Newton, TX; Orange, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning is extended for the following rivers in\nLouisiana...\n\nMermentau River Near Mermentau\n\n...The Flood Warning continues for the following rivers in\nLouisiana...Texas...\n\nAtchafalaya River At Morgan City\n\nVermilion River At Lafayette, Surrey Street Gage\n\nSabine River Near Deweyville\n\nAdditional information is available at www.weather.gov.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Sabine River near Deweyville.\n\n* WHEN...Until further notice.\n\n* IMPACTS...At 25.0 feet, Lowest roads beside the river flood around\nDeweyville and subject to being closed. In addition, low-lying\nroads in Southwest Beauregard Parish are flooded including Robert\nClark Road. Flooding occurs on the south side of Niblett Bluff\nPark with access roads to camp houses cut off around the park.\nAccess roads to the river in Northeastern Orange County become\nflooded.\n\n* ADDITIONAL DETAILS...\n- At 7:45 PM CDT Sunday the stage was 24.7 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 7:45 PM CDT Sunday was 24.8 feet.\n- Forecast...The river is expected to rise to a crest of 24.8\nfeet just after midnight tonight.\n- Flood stage is 24.0 feet.\n- http://www.weather.gov/safety/flood",
+          "instructions": null
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Liberty, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in Texas...\n\nTrinity River at Liberty affecting Liberty County.\n\nFor the Trinity River...including Crockett, Riverside, Romayor,\nGoodrich, Liberty, Moss Bluff...Moderate flooding is forecast.\n\n* WHAT...Moderate flooding is occurring and moderate flooding is\nforecast.\n\n* WHERE...Trinity River at Liberty.\n\n* WHEN...Until late Thursday morning.\n\n* IMPACTS...At 27.0 feet, Moderate lowland flooding begins as roads\ninto several outlying communities above Liberty are closed with\nresidents in 5 or 6 subdivisions cut off if not evacuated.\n\n* ADDITIONAL DETAILS...\n- At 7:15 PM CDT Sunday the stage was 27.7 feet.\n- Bankfull stage is 21.0 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 7:15 PM CDT Sunday was 27.9 feet.\n- Forecast...The river is expected to fall below flood stage\nlate Wednesday evening and continue falling to 23.7 feet\nFriday evening.\n- Flood stage is 26.0 feet.\n- Flood History...This crest compares to a previous crest of\n27.7 feet on 03/16/1997.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Motorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nAdditional information is available at www.weather.gov/hgx.\n\nThe next statement will be issued Monday afternoon at 230 PM CDT."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Chambers, TX; Liberty, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in Texas...\n\nTrinity River near Moss Bluff affecting Liberty and Chambers\nCounties.\n\nFor the Trinity River...including Crockett, Riverside, Romayor,\nGoodrich, Liberty, Moss Bluff...Moderate flooding is forecast.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Trinity River near Moss Bluff.\n\n* WHEN...Until further notice.\n\n* IMPACTS...At 15.2 feet, Moderate lowland flooding begins in the\nvicinity of the gage.\n\n* ADDITIONAL DETAILS...\n- At 7:30 PM CDT Sunday the stage was 14.2 feet.\n- Bankfull stage is 9.2 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 7:30 PM CDT Sunday was 14.3 feet.\n- Forecast...The river is expected to fall to 12.6 feet Friday\nevening.\n- Flood stage is 12.2 feet.\n- Flood History...This crest compares to a previous crest of\n14.2 feet on 10/22/1994.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Motorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nAdditional information is available at www.weather.gov/hgx.\n\nThe next statement will be issued Monday afternoon at 215 PM CDT."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Polk, TX; San Jacinto, TX; Trinity, TX; Walker, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in Texas...\n\nTrinity River at Riverside affecting Trinity, Walker, Polk and\nSan Jacinto Counties.\n\nFor the Trinity River...including Crockett, Riverside, Romayor,\nGoodrich, Liberty, Moss Bluff...Moderate flooding is forecast.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Trinity River at Riverside.\n\n* WHEN...Until early Wednesday afternoon.\n\n* IMPACTS...At 134.0 feet, Minor lowland flooding continues with the\nboat ramp in the Deep River Plantation Subdivision in Walker\nCounty inundated. Backwater flooding up Thomas Lake in Walker\nCounty floods the boat ramp in the Green Rich Shores Subdivision\nin Walker County.\n\n* ADDITIONAL DETAILS...\n- At 7:30 PM CDT Sunday the stage was 134.4 feet.\n- Bankfull stage is 132.0 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 7:30 PM CDT Sunday was 134.7 feet.\n- Forecast...The river is expected to fall below flood stage\nearly Wednesday morning and continue falling to 132.8 feet\nFriday evening.\n- Flood stage is 133.5 feet.\n- Flood History...This crest compares to a previous crest of\n134.4 feet on 04/13/2007.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Motorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nAdditional information is available at www.weather.gov/hgx.\n\nThe next statement will be issued Monday afternoon at 215 PM CDT."
+        }
+      ]
+    },
+    {
+      "state": "TX",
+      "retrieved_at": "2025-05-19T12:25:14.007871",
+      "alerts": [
+        {
+          "event": "Special Weather Statement",
+          "area": "Kimble; Mason",
+          "severity": "Moderate",
+          "description": "At 722 AM CDT, Doppler radar was tracking a strong thunderstorm 7\nmiles east of Segovia, moving northeast at 40 mph.\n\nHAZARD...Wind gusts up to 40 mph and pea size hail.\n\nSOURCE...Radar indicated.\n\nIMPACT...Gusty winds could knock down tree limbs and blow around\nunsecured objects. Minor hail damage to vegetation is\npossible.\n\nLocations impacted include...\nLong Mountain, Yates Crossing, Grit, London, Segovia, Streeter,\nHilda, and The Intersection Of Highway 29 And Ranch Road 1222.\n\nThis includes Interstate 10 between Mile Markers 455 and 459, and\nbetween Mile Markers 464 and 473.",
+          "instructions": "If outdoors, consider seeking shelter inside a building."
+        },
+        {
+          "event": "Special Weather Statement",
+          "area": "Brooks; Inland Kenedy; Starr; Southern Hidalgo; Northern Hidalgo",
+          "severity": "Moderate",
+          "description": "The combination of well-above normal temperatures and increased\nhumidity values will produce Heat Index values up to 110 degrees\nfor a few hours this afternoon across portions of Starr, Hidalgo,\nBrooks, and Kenedy counties. A few locations, especially along\nthe Rio Grande in Starr and Hidalgo counties, may briefly\nexperience Heat Index values up to 112 degrees mid-afternoon.\n\nRemember to drink plenty of water, wear lightweight and light-\ncolored clothing, and take frequent breaks from the heat. Children\nand pets should never be left unattended in vehicles.",
+          "instructions": null
+        },
+        {
+          "event": "Red Flag Warning",
+          "area": "Southwest Mountains; Southwest Deserts and Lowlands; South Central Lowlands And Southern Rio Grande Valley; Capitan And Sacramento Mountains; El Paso; Hudspeth",
+          "severity": "Severe",
+          "description": "...CRITICAL FIRE WEATHER CONDITIONS MONDAY FOR SOUTHERN NEW\nMEXICO AND FAR WEST TEXAS...\n\n.A passing upper-level trough will keep winds strong across the\nregion again today. Strong winds aloft will mix down to the\nsurface, and a surface trough to the east will result in strong\nwinds at the surface. The result will be strong and gusty west to\nwest- northwest winds, with gusts 45 to 55 mph at times. In\naddition, dry conditions remain with single digit minimum relative\nhumidity across the lowlands, and low teens across the mountains.\nThis will result in an afternoon of critical fire weather\nconditions today.\n\n* AFFECTED AREA...Fire Weather Zone 055 Texas Fire Weather Zone\n055 El Paso County, Fire Weather Zone 056 Texas Fire Weather\nZone 056 Hudspeth County, Fire Weather Zone 110 Southwest\nMountains/Gila NF/Apache NF/GLZ, Fire Weather Zone 111\nSouthwest Deserts and Lowlands/Las Cruces BLM/GLZ, Fire\nWeather Zone 112 South Central Lowlands and Southern Rio\nGrande Valley/BLM/GLZ and Fire Weather Zone 113 Capitan and\nSacramento Mountains/Lincoln NF/LNZ.\n\n* AFFECTED AREA...Southwest and South-Central New Mexico including\nFire Weather Zones NMZ110, NMZ111, NMZ112, and NMZ113. This\nincludes the Lincoln and Gila National Forests. Also, Far West\nTexas, including Fire Weather Zones TXZ055 and TXZ056 covering\nEl Paso and Hudspeth Counties.\n\n* TIMING...Today from Noon to 9 PM MDT.\n\n* WINDS...West 25 to 35 mph with gusts 40 to 50 mph.\n\n* RELATIVE HUMIDITY...Dropping to 7 to 10 percent across the\nlowlands, and 13 to 17 percent across area mountains.\n\n* EXPERIMENTAL RFTI...5 to 7 or Critical to Extreme.\n\n* IMPACTS...Any fires that develop will likely spread rapidly.\nOutdoor burning is not recommended.",
+          "instructions": "A Red Flag Warning means that critical fire weather conditions\nare either occurring now, or will shortly. A combination of\nstrong winds, low relative humidity, and warm temperatures can\ncontribute to extreme fire behavior."
+        },
+        {
+          "event": "Wind Advisory",
+          "area": "Otero Mesa; Salt Basin",
+          "severity": "Moderate",
+          "description": "* WHAT...West winds 25 to 35 mph with gusts up to 55 mph expected.\n\n* WHERE...In New Mexico, Otero Mesa. In Texas, Salt Basin.\n\n* WHEN...From noon today to 8 PM MDT this evening.\n\n* IMPACTS...Gusty winds will blow around unsecured objects. Tree\nlimbs could be blown down and a few power outages may result. Risk\nof wildfire will be high.",
+          "instructions": "Winds this strong can make driving difficult, especially for high\nprofile vehicles. Use extra caution."
+        },
+        {
+          "event": "Red Flag Warning",
+          "area": "Sacramento Foothills and Guadalupe Mountains; Chaves County Plains; Eddy Plains; Lea; Loving; Guadalupe Mountains Above 7000 Feet; Guadalupe and Delaware Mountains; Van Horn and Highway 54 Corridor; Eastern Culberson County; Reeves County Plains; Chinati Mountains; Marfa Plateau; Davis Mountains; Davis Mountains Foothills",
+          "severity": "Severe",
+          "description": "..RED FLAG WARNING IN EFFECT FROM NOON CDT /11 AM MDT/ TODAY TO\n10 PM CDT /9 PM MDT/ THIS EVENING FOR 20 FOOT WINDS OF 20 MPH OR\nGREATER, RELATIVE HUMIDITY OF 15 PERCENT OR LESS, AND VERY HIGH\nFIRE DANGER ACROSS SOUTHEAST NEW MEXICO AND MUCH OF WEST TEXAS...\n\n..RED FLAG WARNING IN EFFECT FROM NOON CDT /11 AM MDT/ TODAY TO\n10 PM CDT /9 PM MDT/ THIS EVENING FOR 20 FOOT WINDS OF 20 MPH OR\nGREATER, RELATIVE HUMIDITY OF 15 PERCENT OR LESS, AND VERY HIGH\nFIRE DANGER ACROSS SOUTHEAST NEW MEXICO AND MUCH OF WEST TEXAS...\n\n* WINDS...West 25 to 35 mph with gusts up to 45 mph.\n\n* RELATIVE HUMIDITY...As low as 9 percent.\n\n* RFTI...5 or critical.\n\n* IMPACTS...Any fires that develop will likely spread rapidly.\nOutdoor burning is not recommended.\n\n* SEVERITY...\n\nFUELS (ERC)...90th+ percentile...5 (out of 5).\n\nWEATHER...Critical...3 (out of 5).\n\nFIRE ENVIRONMENT...8 (out of 10).",
+          "instructions": "A Red Flag Warning means that critical fire weather conditions\nare either occurring now or will shortly. A combination of strong\nwinds, low relative humidity and warm temperatures will increase\npotential for fire growth."
+        },
+        {
+          "event": "Red Flag Warning",
+          "area": "Gaines; Dawson; Andrews; Martin; Winkler; Ector; Midland; Ward; Crane; Upton; Pecos; Central Brewster County; Chisos Basin; Presidio Valley; Lower Brewster County",
+          "severity": "Severe",
+          "description": "..RED FLAG WARNING IN EFFECT FROM NOON CDT /11 AM MDT/ TODAY TO\n10 PM CDT /9 PM MDT/ THIS EVENING FOR 20 FOOT WINDS OF 20 MPH OR\nGREATER, RELATIVE HUMIDITY OF 15 PERCENT OR LESS, AND VERY HIGH\nFIRE DANGER ACROSS SOUTHEAST NEW MEXICO AND MUCH OF WEST TEXAS...\n\n..RED FLAG WARNING IN EFFECT FROM NOON CDT /11 AM MDT/ TODAY TO\n10 PM CDT /9 PM MDT/ THIS EVENING FOR 20 FOOT WINDS OF 20 MPH OR\nGREATER, RELATIVE HUMIDITY OF 15 PERCENT OR LESS, AND VERY HIGH\nFIRE DANGER ACROSS SOUTHEAST NEW MEXICO AND MUCH OF WEST TEXAS...\n\n* WINDS...West 20 to 30 mph with gusts up to 45 mph.\n\n* RELATIVE HUMIDITY...As low as 7 percent.\n\n* RFTI...7 or extreme.\n\n* IMPACTS...\n\n* SEVERITY...\n\nFUELS (ERC)...90th+ percentile...5 (out of 5).\n\nWEATHER...Critical...3 (out of 5).\n\nFIRE ENVIRONMENT...8 (out of 10).",
+          "instructions": "A Red Flag Warning means that critical fire weather conditions\nare either occurring now or will shortly. A combination of strong\nwinds, low relative humidity and warm temperatures will increase\npotential for fire growth."
+        },
+        {
+          "event": "Rip Current Statement",
+          "area": "Matagorda Islands; Brazoria Islands; Galveston Island; Bolivar Peninsula",
+          "severity": "Moderate",
+          "description": "* WHAT...Dangerous rip currents.\n\n* WHERE...Gulf-facing beaches, including the Matagorda\nPeninsula, Brazoria County beaches, Galveston Island and the\nBolivar Peninsula.\n\n* WHEN...Through this evening.\n\n* IMPACTS...Rip currents can sweep even the best swimmers away\nfrom shore into deeper water.",
+          "instructions": "Swim near a lifeguard and away from rocks, jetties, and piers. If\ncaught in a rip current, relax and float. Don't swim against the\ncurrent. If able, swim in a direction following the shoreline. If\nunable to escape, face the shore and call or wave for help."
+        },
+        {
+          "event": "Wind Advisory",
+          "area": "Northern Lea County; Central Lea County; Southern Lea County; Gaines; Dawson; Borden; Andrews; Martin; Howard; Loving; Winkler; Ector; Midland; Glasscock; Ward; Crane; Upton; Pecos",
+          "severity": "Moderate",
+          "description": "* WHAT...West winds 25 to 35 mph with gusts up to 50 mph expected.\n\n* WHERE...Portions of southeast New Mexico and southwest and western\nTexas.\n\n* WHEN...From 11 AM MDT /noon CDT/ this morning to 10 PM MDT /11 PM\nCDT/ this evening.\n\n* IMPACTS...Gusty winds may blow around unsecured objects.",
+          "instructions": "Winds this strong can make driving difficult, especially for high\nprofile vehicles. Use extra caution and keep both hands on the\nsteering wheel.\n\nUse caution when driving as blowing dust may reduce visibility."
+        },
+        {
+          "event": "High Wind Warning",
+          "area": "Guadalupe Mountains of Eddy County; Eddy County Plains; Guadalupe Mountains Above 7000 Feet; Guadalupe and Delaware Mountains; Eastern Culberson County; Davis Mountains",
+          "severity": "Severe",
+          "description": "* WHAT...West winds 30 to 40 mph with gusts up to 70 mph expected...\nhigher in the mountains.\n\n* WHERE...Guadalupe Mountains of west Texas and Southeast New\nMexico, Eddy County Plains, Eastern Culberson, and Davis Mountains.\n\n* WHEN...From 11 AM MDT /noon CDT/ this morning to 10 PM MDT /11 PM\nCDT/ this evening.\n\n* IMPACTS...Travel will be difficult, especially for high profile\nvehicles like campers, vans, and tractor trailers. Severe\nturbulence near the mountains will be hazardous for low flying\nlight aircraft.",
+          "instructions": "Winds will be particularly hazardous at higher elevations where the\nstrongest winds are likely to occur. Be especially careful driving\nin these mountainous areas. People driving high-profile vehicles\nshould strongly consider postponing travel in these areas until the\nwinds subside.\n\nUse caution if flying low near the mountains as severe turbulence is\npossible.\n\nUse caution when driving as blowing dust may reduce visibility."
+        },
+        {
+          "event": "Wind Advisory",
+          "area": "Van Horn and Highway 54 Corridor; Reeves County Plains; Chinati Mountains; Marfa Plateau; Davis Mountains Foothills",
+          "severity": "Moderate",
+          "description": "* WHAT...West winds 25to 35 mph with gusts up to 55 mph expected.\n\n* WHERE...Chinati Mountains, Davis Mountains Foothills, Marfa\nPlateau, Van Horn and Highway 54 Corridor, and Reeves County\nPlains.\n\n* WHEN...From noon today to 11 PM CDT this evening.\n\n* IMPACTS...Gusty winds may blow around unsecured objects.",
+          "instructions": "Winds this strong can make driving difficult, especially for high\nprofile vehicles. Use extra caution and keep both hands on the\nsteering wheel.\n\nUse caution when driving as blowing dust may reduce visibility."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Denton, TX",
+          "severity": "Severe",
+          "description": "...The National Weather Service in Fort Worth TX has issued a Flood\nWarning for the following rivers in Texas...\n\nDenton Creek Near Justin affecting Denton County.\n\n* WHAT...Minor flooding is forecast.\n\n* WHERE...Denton Creek near Justin.\n\n* WHEN...Until early Tuesday morning.\n\n* IMPACTS...At 10.0 feet, Minor out of bank flooding will occur to\nfarm and ranch lands near the creek.\n\n* ADDITIONAL DETAILS...\n- At 11:00 PM CDT Sunday the stage was 7.2 feet.\n- Bankfull stage is 10.0 feet.\n- Flood stage is 10.0 feet.\n- Forecast...The river is expected to rise above flood stage\njust after midnight tonight to a crest of 10.8 feet just\nafter midnight tonight. It will then fall below flood stage\nearly tomorrow afternoon.",
+          "instructions": "Do not drive cars through flooded areas.\nCaution is urged when walking near riverbanks.\n\nAdditional information is available at www.water.noaa.gov/wfo/FWD."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Angelina, TX; Nacogdoches, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in Texas...\n\nAngelina River Near Lufkin affecting Nacogdoches and Angelina\nCounties.\n\nFor the Angelina River...including Alto, Lufkin...Minor flooding is\nforecast.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Angelina River near Lufkin.\n\n* WHEN...Until further notice.\n\n* IMPACTS...At 162.0 feet, Minor lowland to diminish and end on the\nlower Angelina River.\n\n* ADDITIONAL DETAILS...\n- At 9:45 PM CDT Sunday the stage was 163.3 feet.\n- Bankfull stage is 158.5 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 9:45 PM CDT Sunday was 163.7 feet.\n- Forecast...The river is expected to fall to 161.1 feet Friday\nevening.\n- Flood stage is 161.0 feet.\n- Flood History...No available flood history.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Do not drive cars through flooded areas.\nCaution is urged when walking near riverbanks.\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nMotorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nFor more hydrologic information, copy and paste the following website\naddress into your favorite web browser URL bar:\nhttps://water.noaa.gov/wfo/SHV\n\nThe next statement will be issued Monday evening at 1015 PM CDT."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Anderson, TX; Cherokee, TX; Houston, TX; Trinity, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning is extended for the following rivers in Texas...\n\nNeches River Near Alto affecting Cherokee, Anderson, Trinity and\nHouston Counties.\n\n...The Flood Warning continues for the following rivers in Texas...\n\nNeches River Near Neches affecting Cherokee, Anderson and Houston\nCounties.\n\nNeches River Near Diboll affecting Trinity, Houston, Tyler, Polk\nand Angelina Counties.\n\nFor the Neches River...including Lake Palestine, Neches, Alto,\nDiboll, Rockland...Minor flooding is forecast.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Neches River near Alto.\n\n* WHEN...Until late Tuesday night.\n\n* IMPACTS...At 16.0 feet, Boat ramps and picnic areas near the river\nwill begin to flood. Ranchers should move cattle and equipment\nnear the river to higher ground.\n\n* ADDITIONAL DETAILS...\n- At 9:15 PM CDT Sunday the stage was 16.4 feet.\n- Bankfull stage is 16.0 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 9:15 PM CDT Sunday was 16.7 feet.\n- Forecast...The river is expected to fall below flood stage\ntomorrow afternoon and continue falling to 13.9 feet Friday\nevening.\n- Flood stage is 16.0 feet.\n- Flood History...This crest compares to a previous crest of\n16.5 feet on 03/12/2012.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Do not drive cars through flooded areas.\nCaution is urged when walking near riverbanks.\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nMotorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nFor more hydrologic information, copy and paste the following website\naddress into your favorite web browser URL bar:\nhttps://water.noaa.gov/wfo/SHV\n\nThe next statement will be issued Monday evening at 1015 PM CDT."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Anderson, TX; Cherokee, TX; Houston, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning is extended for the following rivers in Texas...\n\nNeches River Near Alto affecting Cherokee, Anderson, Trinity and\nHouston Counties.\n\n...The Flood Warning continues for the following rivers in Texas...\n\nNeches River Near Neches affecting Cherokee, Anderson and Houston\nCounties.\n\nNeches River Near Diboll affecting Trinity, Houston, Tyler, Polk\nand Angelina Counties.\n\nFor the Neches River...including Lake Palestine, Neches, Alto,\nDiboll, Rockland...Minor flooding is forecast.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Neches River near Neches.\n\n* WHEN...Until Wednesday morning.\n\n* IMPACTS...At 12.0 feet, Expect minor lowland flooding of the\nheavily wooded floodplain. Ranchers that may have livestock and\nequipment in the river bottoms should move them to higher ground.\nExpect minor flooding of the boat ramp.\n\n* ADDITIONAL DETAILS...\n- At 9:30 PM CDT Sunday the stage was 12.5 feet.\n- Bankfull stage is 12.0 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 9:30 PM CDT Sunday was 12.9 feet.\n- Forecast...The river is expected to fall below flood stage\nearly Tuesday afternoon and continue falling to 10.1 feet\nFriday evening.\n- Flood stage is 12.0 feet.\n- Flood History...This crest compares to a previous crest of\n12.5 feet on 04/10/2014.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Do not drive cars through flooded areas.\nCaution is urged when walking near riverbanks.\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nMotorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nFor more hydrologic information, copy and paste the following website\naddress into your favorite web browser URL bar:\nhttps://water.noaa.gov/wfo/SHV\n\nThe next statement will be issued Monday evening at 1015 PM CDT."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Angelina, TX; Houston, TX; Polk, TX; Trinity, TX; Tyler, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning is extended for the following rivers in Texas...\n\nNeches River Near Alto affecting Cherokee, Anderson, Trinity and\nHouston Counties.\n\n...The Flood Warning continues for the following rivers in Texas...\n\nNeches River Near Neches affecting Cherokee, Anderson and Houston\nCounties.\n\nNeches River Near Diboll affecting Trinity, Houston, Tyler, Polk\nand Angelina Counties.\n\nFor the Neches River...including Lake Palestine, Neches, Alto,\nDiboll, Rockland...Minor flooding is forecast.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Neches River near Diboll.\n\n* WHEN...Until further notice.\n\n* IMPACTS...At 14.0 feet, Minor lowland flooding of boat ramps,\npaths, and trails.  Move livestock and equipment to higher ground.\n\n* ADDITIONAL DETAILS...\n- At 9:15 PM CDT Sunday the stage was 13.3 feet.\n- Bankfull stage is 12.0 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 9:15 PM CDT Sunday was 13.4 feet.\n- Forecast...The river is expected to fall to 12.3 feet Friday\nevening.\n- Flood stage is 12.0 feet.\n- Flood History...This crest compares to a previous crest of\n13.2 feet on 04/28/1964.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Do not drive cars through flooded areas.\nCaution is urged when walking near riverbanks.\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nMotorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nFor more hydrologic information, copy and paste the following website\naddress into your favorite web browser URL bar:\nhttps://water.noaa.gov/wfo/SHV\n\nThe next statement will be issued Monday evening at 1015 PM CDT."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Beauregard, LA; Calcasieu, LA; Newton, TX; Orange, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning is extended for the following rivers in\nLouisiana...\n\nMermentau River Near Mermentau\n\n...The Flood Warning continues for the following rivers in\nLouisiana...Texas...\n\nAtchafalaya River At Morgan City\n\nVermilion River At Lafayette, Surrey Street Gage\n\nSabine River Near Deweyville\n\nAdditional information is available at www.weather.gov.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Sabine River near Deweyville.\n\n* WHEN...Until further notice.\n\n* IMPACTS...At 25.0 feet, Lowest roads beside the river flood around\nDeweyville and subject to being closed. In addition, low-lying\nroads in Southwest Beauregard Parish are flooded including Robert\nClark Road. Flooding occurs on the south side of Niblett Bluff\nPark with access roads to camp houses cut off around the park.\nAccess roads to the river in Northeastern Orange County become\nflooded.\n\n* ADDITIONAL DETAILS...\n- At 7:45 PM CDT Sunday the stage was 24.7 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 7:45 PM CDT Sunday was 24.8 feet.\n- Forecast...The river is expected to rise to a crest of 24.8\nfeet just after midnight tonight.\n- Flood stage is 24.0 feet.\n- http://www.weather.gov/safety/flood",
+          "instructions": null
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Liberty, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in Texas...\n\nTrinity River at Liberty affecting Liberty County.\n\nFor the Trinity River...including Crockett, Riverside, Romayor,\nGoodrich, Liberty, Moss Bluff...Moderate flooding is forecast.\n\n* WHAT...Moderate flooding is occurring and moderate flooding is\nforecast.\n\n* WHERE...Trinity River at Liberty.\n\n* WHEN...Until late Thursday morning.\n\n* IMPACTS...At 27.0 feet, Moderate lowland flooding begins as roads\ninto several outlying communities above Liberty are closed with\nresidents in 5 or 6 subdivisions cut off if not evacuated.\n\n* ADDITIONAL DETAILS...\n- At 7:15 PM CDT Sunday the stage was 27.7 feet.\n- Bankfull stage is 21.0 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 7:15 PM CDT Sunday was 27.9 feet.\n- Forecast...The river is expected to fall below flood stage\nlate Wednesday evening and continue falling to 23.7 feet\nFriday evening.\n- Flood stage is 26.0 feet.\n- Flood History...This crest compares to a previous crest of\n27.7 feet on 03/16/1997.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Motorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nAdditional information is available at www.weather.gov/hgx.\n\nThe next statement will be issued Monday afternoon at 230 PM CDT."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Chambers, TX; Liberty, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in Texas...\n\nTrinity River near Moss Bluff affecting Liberty and Chambers\nCounties.\n\nFor the Trinity River...including Crockett, Riverside, Romayor,\nGoodrich, Liberty, Moss Bluff...Moderate flooding is forecast.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Trinity River near Moss Bluff.\n\n* WHEN...Until further notice.\n\n* IMPACTS...At 15.2 feet, Moderate lowland flooding begins in the\nvicinity of the gage.\n\n* ADDITIONAL DETAILS...\n- At 7:30 PM CDT Sunday the stage was 14.2 feet.\n- Bankfull stage is 9.2 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 7:30 PM CDT Sunday was 14.3 feet.\n- Forecast...The river is expected to fall to 12.6 feet Friday\nevening.\n- Flood stage is 12.2 feet.\n- Flood History...This crest compares to a previous crest of\n14.2 feet on 10/22/1994.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Motorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nAdditional information is available at www.weather.gov/hgx.\n\nThe next statement will be issued Monday afternoon at 215 PM CDT."
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Polk, TX; San Jacinto, TX; Trinity, TX; Walker, TX",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in Texas...\n\nTrinity River at Riverside affecting Trinity, Walker, Polk and\nSan Jacinto Counties.\n\nFor the Trinity River...including Crockett, Riverside, Romayor,\nGoodrich, Liberty, Moss Bluff...Moderate flooding is forecast.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Trinity River at Riverside.\n\n* WHEN...Until early Wednesday afternoon.\n\n* IMPACTS...At 134.0 feet, Minor lowland flooding continues with the\nboat ramp in the Deep River Plantation Subdivision in Walker\nCounty inundated. Backwater flooding up Thomas Lake in Walker\nCounty floods the boat ramp in the Green Rich Shores Subdivision\nin Walker County.\n\n* ADDITIONAL DETAILS...\n- At 7:30 PM CDT Sunday the stage was 134.4 feet.\n- Bankfull stage is 132.0 feet.\n- Recent Activity...The maximum river stage in the 24 hours\nending at 7:30 PM CDT Sunday was 134.7 feet.\n- Forecast...The river is expected to fall below flood stage\nearly Wednesday morning and continue falling to 132.8 feet\nFriday evening.\n- Flood stage is 133.5 feet.\n- Flood History...This crest compares to a previous crest of\n134.4 feet on 04/13/2007.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Motorists should not attempt to drive around barricades or drive\ncars through flooded areas.\n\nTurn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nAdditional information is available at www.weather.gov/hgx.\n\nThe next statement will be issued Monday afternoon at 215 PM CDT."
+        }
+      ]
+    }
+  ],
+  "state:CA": [
+    {
+      "state": "CA",
+      "retrieved_at": "2025-05-24T07:59:10.737974",
+      "alerts": [
+        {
+          "event": "Wind Advisory",
+          "area": "San Gorgonio Pass Near Banning",
+          "severity": "Moderate",
+          "description": "* WHAT...West winds 25 to 35 mph with gusts up to 55 mph expected.\n\n* WHERE...San Gorgonio Pass near Banning.\n\n* WHEN...Until 3 AM PDT Sunday.\n\n* IMPACTS...Gusty winds will blow around unsecured objects. Reduced\nvisibility in blowing dust.",
+          "instructions": "Winds this strong can make driving difficult, especially for high\nprofile vehicles. Use extra caution."
+        },
+        {
+          "event": "Beach Hazards Statement",
+          "area": "Ventura County Beaches; Malibu Coast; Los Angeles County Beaches",
+          "severity": "Moderate",
+          "description": "* WHAT...Breaking waves up to 6 feet for south facing beaches\nand dangerous rip currents due to a long lived, long period\nsouth swell.\n\n* WHERE...Ventura County Beaches, Malibu Coast and Los Angeles\nCounty Beaches.\n\n* WHEN...From Saturday morning through late Monday night.\n\n* IMPACTS...There is an increased risk of ocean drowning. Rip\ncurrents can pull swimmers and surfers out to sea. Waves can\nwash people off beaches and rocks, and capsize small boats\nnearshore.\n\n* ADDITIONAL DETAILS...",
+          "instructions": "Remain out of the water due to hazardous swimming conditions, or\nstay near occupied lifeguard towers. Rock jetties can be deadly\nin such conditions, stay off the rocks."
+        },
+        {
+          "event": "Beach Hazards Statement",
+          "area": "San Diego County Coastal Areas; Orange County Coastal",
+          "severity": "Moderate",
+          "description": "* WHAT...Elevated surf of 3 to 6 feet. Sets up to 7 feet\npossible on south-southwest facing beaches, especially in\nOrange County.\n\n* WHERE...San Diego County Coastal Areas and Orange County\nCoastal Areas.\n\n* WHEN...From Saturday morning through late Monday night.\n\n* IMPACTS...Strong rip currents will create hazardous swimming\nconditions.\n\n* ADDITIONAL DETAILS...Surf heights look to peak on Sunday.",
+          "instructions": "Remain out of the water to avoid hazardous swimming conditions."
+        },
+        {
+          "event": "Wind Advisory",
+          "area": "Santa Barbara County Southwestern Coast; Santa Ynez Mountains Western Range",
+          "severity": "Moderate",
+          "description": "* WHAT...Northwest winds 20 to 30 mph with gusts up to 50 mph\nexpected.\n\n* WHERE...Santa Barbara County Southwestern Coast and Santa Ynez\nMountains Western Range.\n\n* WHEN...From 6 PM this evening to 3 AM PDT Saturday.\n\n* IMPACTS...Gusty winds will blow around unsecured objects. Tree\nlimbs could be blown down and a few power outages may result.",
+          "instructions": "Winds this strong can make driving difficult, especially for high\nprofile vehicles. Use extra caution."
+        },
+        {
+          "event": "Air Quality Alert",
+          "area": "Coachella Valley; San Gorgonio Pass Near Banning",
+          "severity": "Unknown",
+          "description": "* WHAT...The South Coast AQMD has issued an air quality alert due to\nharmful levels of particle pollution from windblown dust.\n\n* WHERE...in the Coachella Valley. Levels of particle pollution can\nvary by time and location depending on emissions and local weather\nconditions.\n\n* WHEN...2 PM Friday through 8 AM Saturday.\n\n* IMPACTS... Particle pollution can get deep into the lungs and\ncause serious health problems such as asthma attacks, heart and lung\ndisease symptoms, and increased risk of lung infections. Everyone\ncan be affected, but sensitive groups such as people with lung or\nheart disease, older adults, people who are pregnant, children, and\nthose who spend a lot of time outdoors are at greater risk.",
+          "instructions": "To protect your health, check air quality levels and act as needed:\n\n* When Air Quality Index (AQI) levels are \"Unhealthy for Sensitive Groups\"\n(orange), sensitive groups as specified above should limit\nextended or intense outdoor activity.\n* When AQI is \"Unhealthy\" (red), everyone may experience health impacts.\nSensitive groups should avoid extended time outdoors.\n* When AQI is \"Very Unhealthy\" (purple), sensitive groups should avoid\nall outdoor physical activity. Everyone else should avoid extended\nor intense outdoor activity.\n* When AQI is \"Hazardous\" (maroon), everyone should avoid all outdoor\nphysical activity.\n\n* ADDITIONAL DETAILS...\n\nTo help keep indoor air clean when air quality is poor:\n\n* Keep windows and doors closed\n* Run your air conditioner and/or an air purifier\n* Do not use whole house fans or swamp coolers that bring in outside air\nif you have other methods to stay cool\n* Avoid other sources of pollution such as fireplaces, candles, incense,\ngrilling, and gasoline-powered lawn and garden equipment\n\nTo help minimize outdoor particle pollution levels:\n\n* Carpool, telecommute, reduce trips, or take public transportation\n* Slow down if driving on dirt roads\n* Stabilize loose soils\n\nTo view current and forecasted air quality levels, visit the South\nCoast Air Quality Management District website at aqmd.gov or\ndownload the mobile app at www.aqmd.gov/mobileapp. Additional\ndetails for this air quality alert may be available at\nwww.aqmd.gov/advisory."
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "retrieved_at": "2025-05-21T13:34:55.504850",
+      "alerts": [
+        {
+          "event": "Fire Weather Watch",
+          "area": "West Side Hills; San Joaquin Valley; Central Sierra Foothills; Southern Sierra Foothills",
+          "severity": "Severe",
+          "description": "* AFFECTED AREA...Fire weather zone 579 West Side Hills. Fire\nweather zone 580 San Joaquin Valley. Fire weather zone 590\nCentral Sierra Foothills. Fire weather zone 591 Southern\nSierra Foothills.\n\n* WIND...West to Northwest winds 15 to 20 mph with gusts\nreaching25 to 35 mph. Ridge-top wind gusts reaching 35 mph.\n\n* HUMIDITY...5 to 15 percent.\n\n* IMPACTS...Any fires that develop will likely spread rapidly.\nOutdoor burning is not recommended.",
+          "instructions": "A Fire Weather Watch means that critical fire weather conditions\nare forecast to occur. Listen for later forecasts and possible\nRed Flag Warnings."
+        },
+        {
+          "event": "Heat Advisory",
+          "area": "Western Santa Monica Mountains Recreational Area; Eastern Santa Monica Mountains Recreational Area; Calabasas and Agoura Hills; Western San Fernando Valley; Eastern San Fernando Valley",
+          "severity": "Moderate",
+          "description": "* WHAT...Temperatures up to 100 expected.\n\n* WHERE...Calabasas and Agoura Hills, Eastern San Fernando Valley,\nEastern Santa Monica Mountains Recreational Area, Western San\nFernando Valley, and Western Santa Monica Mountains Recreational\nArea.\n\n* WHEN...Until 9 PM PDT Thursday.\n\n* IMPACTS...There is a high risk for heat illness for sensitive\npopulations including the very young, the very old, those without\nair conditioning, and those active outdoors.",
+          "instructions": "Drink plenty of fluids, stay in an air-conditioned room, stay out of\nthe sun, and check up on relatives and neighbors. Do not leave\npeople or pets in closed vehicles."
+        },
+        {
+          "event": "Heat Advisory",
+          "area": "Santa Clarita Valley; Southern Salinas Valley; Santa Ynez Valley; Santa Ynez Mountains Western Range; Santa Ynez Mountains Eastern Range; Santa Barbara County Interior Mountains; Lake Casitas; Ojai Valley; Central Ventura County Valleys; Los Angeles County Inland Coast including Downtown Los Angeles; Southeastern Ventura County Valleys; Santa Susana Mountains; Los Angeles County San Gabriel Valley",
+          "severity": "Moderate",
+          "description": "* WHAT...Temperatures up to 100 expected.\n\n* WHERE...A portion of southwest California.\n\n* WHEN...From 11 AM Wednesday to 9 PM PDT Thursday.\n\n* IMPACTS...There is a high risk for heat illness for sensitive\npopulations including the very young, the very old, those without\nair conditioning, and those active outdoors. Do not leave people\nor pets in closed vehicles.",
+          "instructions": "Drink plenty of fluids, stay in an air-conditioned room, stay out of\nthe sun, and check up on relatives and neighbors."
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "retrieved_at": "2025-05-20T12:50:05.627089",
+      "alerts": [
+        {
+          "event": "Heat Advisory",
+          "area": "Santa Clarita Valley; Southern Salinas Valley; Santa Ynez Valley; Santa Ynez Mountains Western Range; Santa Ynez Mountains Eastern Range; Santa Barbara County Interior Mountains; Lake Casitas; Ojai Valley; Central Ventura County Valleys; Los Angeles County Inland Coast including Downtown Los Angeles; Southeastern Ventura County Valleys; Santa Susana Mountains; Los Angeles County San Gabriel Valley",
+          "severity": "Moderate",
+          "description": "* WHAT...Temperatures up to 100 expected.\n\n* WHERE...A portion of southwest California.\n\n* WHEN...From 11 AM Wednesday to 9 PM PDT Thursday.\n\n* IMPACTS...There is a high risk for heat illness for sensitive\npopulations including the very young, the very old, those without\nair conditioning, and those active outdoors. Do not leave people\nor pets in closed vehicles.",
+          "instructions": "Drink plenty of fluids, stay in an air-conditioned room, stay out of\nthe sun, and check up on relatives and neighbors."
+        },
+        {
+          "event": "Heat Advisory",
+          "area": "Western Santa Monica Mountains Recreational Area; Eastern Santa Monica Mountains Recreational Area; Calabasas and Agoura Hills; Western San Fernando Valley; Eastern San Fernando Valley",
+          "severity": "Moderate",
+          "description": "* WHAT...Temperatures up to 100 expected.\n\n* WHERE...Calabasas and Agoura Hills, Eastern San Fernando Valley,\nEastern Santa Monica Mountains Recreational Area, Western San\nFernando Valley, and Western Santa Monica Mountains Recreational\nArea.\n\n* WHEN...From 11 AM this morning to 9 PM PDT Thursday.\n\n* IMPACTS...There is a high risk for heat illness for sensitive\npopulations including the very young, the very old, those without\nair conditioning, and those active outdoors.",
+          "instructions": "Drink plenty of fluids, stay in an air-conditioned room, stay out of\nthe sun, and check up on relatives and neighbors. Do not leave\npeople or pets in closed vehicles."
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "retrieved_at": "2025-05-19T12:25:14.283462",
+      "alerts": [
+        {
+          "event": "Wind Advisory",
+          "area": "Santa Barbara County Southwestern Coast; Santa Ynez Mountains Western Range",
+          "severity": "Moderate",
+          "description": "* WHAT...North winds 20 to 35 mph with gusts up to 50 mph expected.\n\n* WHERE...Santa Barbara County Southwestern Coast and Santa Ynez\nMountains Western Range.\n\n* WHEN...Until 6 AM PDT early this morning.\n\n* IMPACTS...Gusty winds will blow around unsecured objects. Tree\nlimbs could be blown down and a few power outages may result.\n\n* ADDITIONAL DETAILS...Another round of advisory level winds are\nexpected Monday evening into Tuesday morning.",
+          "instructions": "Winds this strong can make driving difficult, especially for high\nprofile vehicles. Use extra caution."
+        },
+        {
+          "event": "Wind Advisory",
+          "area": "Southern Ventura County Mountains; Northern Ventura County Mountains",
+          "severity": "Moderate",
+          "description": "* WHAT...North to northwest winds 20 to 30 mph with gusts up to 50\nmph expected.\n\n* WHERE...Northern Ventura County Mountains and Southern Ventura\nCounty Mountains.\n\n* WHEN...Until 10 AM PDT this morning.\n\n* IMPACTS...Gusty winds will blow around unsecured objects. Tree\nlimbs could be blown down and a few power outages may result.",
+          "instructions": "Winds this strong can make driving difficult, especially for high\nprofile vehicles. Use extra caution."
+        },
+        {
+          "event": "Wind Advisory",
+          "area": "Interstate 5 Corridor",
+          "severity": "Moderate",
+          "description": "* WHAT...Northwest winds 25 to 35 mph with gusts up to 50 mph\nexpected. Isolated gusts to 60 mph possible in favored valleys and\npeaks.\n\n* WHERE...Interstate 5 Corridor.\n\n* WHEN...Until 10 AM PDT this morning.\n\n* IMPACTS...Gusty winds will blow around unsecured objects. Tree\nlimbs could be blown down and a few power outages may result.",
+          "instructions": "Winds this strong can make driving difficult, especially for high\nprofile vehicles. Use extra caution."
+        },
+        {
+          "event": "Wind Advisory",
+          "area": "Santa Ynez Mountains Eastern Range; Santa Barbara County Interior Mountains",
+          "severity": "Moderate",
+          "description": "* WHAT...North to northeast winds 20 to 35 mph with gusts up to 50\nmph expected. Isolated gusts to 55 mph are possible across the\nhigher elevation mountains.\n\n* WHERE...Santa Barbara County Interior Mountains and Santa Ynez\nMountains Eastern Range.\n\n* WHEN...Until 10 AM PDT this morning.\n\n* IMPACTS...Gusty winds will blow around unsecured objects. Tree\nlimbs could be blown down and a few power outages may result.\n\n* ADDITIONAL DETAILS...Another round of advisory level winds are\nexpected Monday evening into Tuesday morning.",
+          "instructions": "Winds this strong can make driving difficult, especially for high\nprofile vehicles. Use extra caution."
+        },
+        {
+          "event": "Air Quality Alert",
+          "area": "Coachella Valley",
+          "severity": "Unknown",
+          "description": "* WHAT...The South Coast AQMD has issued an air quality alert due to\nharmful levels of particle pollution from windblown dust.\n\n* WHERE...in the Coachella Valley. Levels of particle pollution can\nvary by time and location depending on emissions and local weather\nconditions.\n\n* WHEN...from 4 PM Sunday to 1 PM Monday.\n\n* IMPACTS... Particle pollution can get deep into the lungs and\ncause serious health problems such as asthma attacks, heart and lung\ndisease symptoms, and increased risk of lung infections. Everyone\ncan be affected, but sensitive groups such as people with lung or\nheart disease, older adults, people who are pregnant, children, and\nthose who spend a lot of time outdoors are at greater risk.",
+          "instructions": "To protect your health, check air quality levels and act as needed:\n\n* When Air Quality Index (AQI) levels are \"Unhealthy for Sensitive Groups\"(orange),\nsensitive groups as specified above should limit extended or\nintense outdoor activity.\n* When AQI is \"Unhealthy\" (red), everyone may experience health\nimpacts. Sensitive groups should avoid extended time outdoors.\n* When AQI is \"Very Unhealthy\" (purple), sensitive groups should avoid\nall outdoor physical activity. Everyone else should avoid\nextended or intense outdoor activity.\n* When AQI is \"Hazardous\" (maroon), everyone should avoid all outdoor\nphysical activity.\n\n* ADDITIONAL DETAILS...\n\nTo help keep indoor air clean when air quality is poor:\n\n* Keep windows and doors closed\n* Run your air conditioner and/or an air purifier\n* Do not use whole house fans or swamp coolers that bring in outside\nair if you have other methods to stay cool\n* Avoid other sources of pollution such as fireplaces, candles,\nincense, grilling, and gasoline-powered lawn and garden equipment\n\nTo help minimize outdoor particle pollution levels:\n\n* Carpool, telecommute, reduce trips, or take public transportation\n* Slow down if driving on dirt roads\n* Stabilize loose soils\n\nTo view current and forecasted air quality levels, visit the South\nCoast Air Quality Management District website at aqmd.gov or\ndownload the mobile app at www.aqmd.gov/mobileapp. Additional\ndetails for this air quality alert may be available at\nwww.aqmd.gov/advisory.\n\nFor the latest air quality forecasts and information, visit the\nwebsite at aqmd.gov."
+        },
+        {
+          "event": "Red Flag Warning",
+          "area": "Northern Sacramento Valley to Southern Tehama County Line Below 1000 Ft; Central Sacramento Valley including Glenn/Colusa/Yuba/Northern Sutter/Butte County Below 1000 Ft; Southern Sacramento Valley In Yolo/Sacramento/Far Western Placer/Southern Sutter and Solano County Below 1000 Ft - Excludes the Delta; Eastern Delta; Northern San Joaquin Valley in San Joaquin and Stanislaus Counties Below 1000 ft - Excludes the Delta",
+          "severity": "Severe",
+          "description": "* Winds...North winds 15 to 25 mph with gusts up to 35 mph\nexpected. Strongest winds are expected across the central\nSacramento Valley, along and west of Interstate 5.\n\n* Humidity...15 to 25 percent.\n\n* Highest Threat...Central and Southern Sacramento Valley along\nand west of the I-5 corridor and the Northern San Joaquin\nValley.\n\n* Impacts...The combination of gusty winds and low humidity can\ncause fire to rapidly grow in size and intensity. Outdoor\nburning is not recommended.",
+          "instructions": "A Red Flag Warning means that critical fire weather conditions\nare either occurring now, or will shortly. A combination of\nstrong winds, low relative humidity, and warm temperatures can\ncontribute to extreme fire behavior."
+        }
+      ]
+    }
+  ],
+  "state:IL": [
+    {
+      "state": "IL",
+      "retrieved_at": "2025-05-20T12:52:52.354252",
+      "alerts": [
+        {
+          "event": "Special Weather Statement",
+          "area": "Winnebago; Boone; McHenry; Ogle; Lee; De Kalb; Kane; La Salle; Kendall; Grundy; Livingston; Ford",
+          "severity": "Moderate",
+          "description": "Strong east to southeast winds with gusts around 45 mph will\nthrough mid morning along the southwest edge of a region of\nprecipitation. These strong winds may cause difficult driving\nconditions for high profile vehicles, particularly on north to\nsouth oriented roads.",
+          "instructions": null
+        },
+        {
+          "event": "Special Weather Statement",
+          "area": "Knox; Stark; Peoria; Marshall; Woodford; Fulton; Tazewell; McLean; Schuyler; Mason; Logan; De Witt; Piatt; Champaign; Vermilion; Cass; Menard; Scott; Morgan; Sangamon; Christian; Macon; Moultrie; Douglas; Coles; Edgar; Shelby",
+          "severity": "Moderate",
+          "description": "Strong east to southeast winds 20 to 35 mph and gusts up to 40 to 45\nmph will occur into mid morning over central IL north of I-70. These\nstrong winds will cause difficult driving on area roads during the\nmorning commute, especially for high profile vehicles. In addition,\nloose objects will be easily blown around. The winds are expected to\ndecrease later this morning and into the afternoon.",
+          "instructions": null
+        },
+        {
+          "event": "Special Weather Statement",
+          "area": "Buchanan; Delaware; Dubuque; Benton; Linn; Jones; Jackson; Iowa; Johnson; Cedar; Clinton; Muscatine; Scott; Jo Daviess; Stephenson; Carroll; Whiteside; Rock Island; Henry; Bureau; Putnam",
+          "severity": "Moderate",
+          "description": "Strong east winds of 20 to 35 mph with gusts up to 45 mph will be\nseen this morning from the Interstate 80 corridor on north.\n\nThe strong winds will cause difficult driving on area roads during\nthe morning commute, especially for high profile vehicles. In\naddition, loose objects will be easily blown around.\n\nThe winds are expected to decrease late this morning and into the\nafternoon.",
+          "instructions": null
+        },
+        {
+          "event": "Flood Warning",
+          "area": "Clay, IL; Richland, IL",
+          "severity": "Severe",
+          "description": "...The National Weather Service in Lincoln IL has issued a Flood\nWarning for the following rivers in Illinois...\n\nLittle Wabash River below Clay City affecting Clay and Richland\nCounties.\n\n.The following forecasts are based on observed precipitation, soil\nmoisture conditions, and forecast precipitation.\n\n* WHAT...Minor flooding is forecast.\n\n* WHERE...Little Wabash River below Clay City.\n\n* WHEN...From Tuesday evening to early Saturday morning.\n\n* IMPACTS...At 19.0 feet, 2600E Road begins to flood 1.5 miles south\nof Wynoose.\n\n* ADDITIONAL DETAILS...\n- At 7:45 PM CDT Monday the stage was 6.9 feet.\n- Forecast...The river is expected to rise above flood stage\nlate tomorrow evening to a crest of 19.0 feet early Thursday\nmorning. It will then fall below flood stage late Friday\nevening.\n- Flood stage is 18.0 feet.\n- http://www.weather.gov/safety/flood",
+          "instructions": "Persons with interests along this river need to remain aware of the\nlatest forecasts and associated flood risk for their area. Stay\ntuned for further updates on this flooding situation.\n\nAdditional information is available at www.weather.gov."
+        }
+      ]
+    }
+  ],
+  "state:NY": [
+    {
+      "state": "NY",
+      "retrieved_at": "2025-05-20T13:16:59.741037",
+      "alerts": [
+        {
+          "event": "Flood Warning",
+          "area": "Tompkins, NY",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in New\nYork...\n\nCayuga Lake At Ithaca affecting Tompkins County.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Cayuga Lake at Ithaca.\n\n* WHEN...Until Thursday morning.\n\n* IMPACTS...At 383.5 feet, The lake level is high enough to flood\nnormally dry areas along the shoreline and may affect some paths,\nor roads nearest the shore.\n\n* ADDITIONAL DETAILS...\n- At 1:00 AM EDT Tuesday the stage was 383.5 feet.\n- Forecast...The lake is expected to fall below flood stage\nthis evening and continue falling to 383.3 feet Thursday\nmorning.\n- Flood stage is 383.5 feet.\n- https://www.weather.gov/safety/flood",
+          "instructions": "This warning will be in effect until the lake falls below its flood\nstage.\n\nAdditional information is available at www.weather.gov.\n\nThe next statement will be issued this afternoon at 215 PM EDT."
+        }
+      ]
+    }
+  ],
+  "state:NC": [
+    {
+      "state": "NC",
+      "retrieved_at": "2025-05-20T13:20:47.366057",
+      "alerts": [
+        {
+          "event": "Flood Warning",
+          "area": "Robeson, NC",
+          "severity": "Severe",
+          "description": "...The Flood Warning continues for the following rivers in North\nCarolina...\n\nLumber River Near Lumberton affecting Robeson County.\n\n* WHAT...Minor flooding is occurring and minor flooding is forecast.\n\n* WHERE...Lumber River near Lumberton.\n\n* WHEN...Until early Thursday morning.\n\n* IMPACTS...At 13.0 feet, Low land flooding will occur along the\nriver. The flood waters may affect some residential property as\nwater backs up into the drainage ditches in the city.\n\n* ADDITIONAL DETAILS...\n- At 8:50 PM EDT Monday the stage was 13.2 feet.\n- Forecast...The river is expected to fall below flood stage\nWednesday morning and continue falling to 11.3 feet Saturday\nevening.\n- Flood stage is 13.0 feet.\n- weather.gov/safety/flood",
+          "instructions": "Turn around, don't drown when encountering flooded roads. Most flood\ndeaths occur in vehicles.\n\nAdditional information is available at water.noaa.gov/wfo/ilm .\n\nThe next statement will be issued by Tuesday afternoon."
+        },
+        {
+          "event": "Flood Advisory",
+          "area": "Pender, NC",
+          "severity": "Minor",
+          "description": "...The Flood Advisory continues for the following rivers in North\nCarolina...\n\nNortheast Cape Fear River Near Burgaw affecting Pender County.\n\n* WHAT...Flooding caused by excessive rainfall continues.\n\n* WHERE...Northeast Cape Fear River near Burgaw.\n\n* WHEN...Until Wednesday evening.\n\n* IMPACTS...At 8.0 feet, Water affects the lowest portions of River\nBend Road and River Birch Road.\n\n* ADDITIONAL DETAILS...\n- At 7:30 PM EDT Sunday the stage was 8.1 feet.\n- Forecast...The river is expected to fall to 5.0 feet Friday\nevening.\n- Advisory stage is 8.0 feet.\n- Flood stage is 10.0 feet.\n- weather.gov/safety/flood",
+          "instructions": "If you encounter a flooded roadway, turn around and find an\nalternative route.\n\nAdditional information is available at water.noaa.gov/wfo/ilm .\n\nThe next statement will be issued by Monday afternoon."
+        }
+      ]
+    }
+  ]
+}
