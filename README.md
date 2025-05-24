@@ -1,6 +1,6 @@
 # Building Scalable MCP Servers with Domain-Driven Design
 
-This repository demonstrates how to apply Domain-Driven Design (DDD) principles to build maintainable, scalable Model Context Protocol (MCP) servers. It accompanies the blog post [Building Scalable MCP Servers with Domain-Driven Design](blog/blog_post.md).
+This repository demonstrates how to apply Domain-Driven Design (DDD) principles to build maintainable, scalable Model Context Protocol (MCP) servers. It accompanies the blog post [Building Scalable MCP Servers with Domain-Driven Design](https://medium.com/@chris.p.hughes10/building-scalable-mcp-servers-with-domain-driven-design-fb9454d4c726?source=friends_link&sk=9edabaa1479c98edbbe3ce969c675664).
 
 ## 🚀 Quick Start
 
@@ -129,7 +129,7 @@ Recognizes when users want structured workflows and applies appropriate prompt t
 
 ## Learning Path
 
-1. **Start with the blog post**: [Building Scalable MCP Servers with Domain-Driven Design](blog/blog_post.md)
+1. **Start with the blog post**: [Building Scalable MCP Servers with Domain-Driven Design](https://medium.com/@chris.p.hughes10/building-scalable-mcp-servers-with-domain-driven-design-fb9454d4c726?source=friends_link&sk=9edabaa1479c98edbbe3ce969c675664)
 
 2. **Compare implementations**: 
    - Simple: `src/servers/simple_weather/weather.py`
