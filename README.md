@@ -17,7 +17,7 @@ This repository demonstrates how to apply Domain-Driven Design (DDD) principles 
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd mcp-explore
+cd mcp-ddd
 ```
 
 2. Install dependencies using uv:
